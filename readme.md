@@ -68,3 +68,8 @@ Ej. defaults, constants, browser configuration.
 
 ```
 
+### Don't use enum
+
+```
+
+```
