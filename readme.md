@@ -45,3 +45,26 @@ A collection of guidelines, tools, talks and packages for React applications.
 ## Styling
 
 - website: [Emotion library](https://emotion.sh/docs/introduction)
+
+## Code Conventions
+
+### Components as function & methods as arrow functions
+
+```
+
+```
+
+### Keep things that don't change outside of React components in VanillaJS
+
+Ej. defaults, constants, browser configuration.
+
+```
+
+```
+
+### Use type inference for defining component state or default props
+
+```
+
+```
+
