@@ -10,6 +10,7 @@ A collection of guidelines, tools, talks and packages for React applications.
 - video: [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) 
 - video: [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) 
 - video: [How does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc) 
+- video: [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 
 ## Layout & CSS
 
