@@ -1,0 +1,42 @@
+{
+  "projectName": "react-stack",
+  "projectOwner": "puravidadac",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "gaboesquivel",
+      "name": "Gabo Esquivel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/391270?v=4",
+      "profile": "https://gaboesquivel.com",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "kevinwolfcr",
+      "name": "Kevin Wolf",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3157426?v=4",
+      "profile": "https://kevinwolf.me",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "laubits",
+      "name": "Laura Castillo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11317931?v=4",
+      "profile": "https://github.com/laubits",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
