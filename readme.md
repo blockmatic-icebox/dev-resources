@@ -27,12 +27,12 @@ A collection of guidelines, tools, talks and packages for React applications.
 ## Functional JavaScript with TypeScript 
 
 - video: [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- article: [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
 ## React Hooks and Context 
 
 - video: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
 - video: [Let's hook up with React](https://www.youtube.com/watch?v=h9qHKDlsnP0) 
-- article: [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
 ## Animation
 
