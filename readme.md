@@ -87,6 +87,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://gaboesquivel.com"><img src="https://avatars0.githubusercontent.com/u/391270?v=4" width="100px;" alt="Gabo Esquivel"/><br /><sub><b>Gabo Esquivel</b></sub></a><br /><a href="#ideas-gaboesquivel" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://kevinwolf.me"><img src="https://avatars2.githubusercontent.com/u/3157426?v=4" width="100px;" alt="Kevin Wolf"/><br /><sub><b>Kevin Wolf</b></sub></a><br /><a href="#ideas-kevinwolfcr" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/laubits"><img src="https://avatars3.githubusercontent.com/u/11317931?v=4" width="100px;" alt="Laura Castillo"/><br /><sub><b>Laura Castillo</b></sub></a><br /><a href="#ideas-laubits" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/veyyz"><img src="https://avatars1.githubusercontent.com/u/4465736?v=4" width="100px;" alt="veyyz"/><br /><sub><b>veyyz</b></sub></a><br /><a href="#ideas-veyyz" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
