@@ -13,7 +13,9 @@ A collection of guidelines, tools, talks and packages for React applications.
 
 ## Layout & CSS
 
+
 - video: [Introduction to Viewport Units](https://www.youtube.com/watch?v=_sgF8I-Q1Gs)
+- video: [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
 - video: [Using Flexbox + CSS Grid Together](https://www.youtube.com/watch?v=dQHtT47eH0M)
 
 ## Functional JavaScript with TypeScript 
