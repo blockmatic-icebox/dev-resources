@@ -1,4 +1,4 @@
-# react-stack
+# The Pura Vida React Stack
 
 A collection of guidelines, tools, talks and packages for React applications.
 
