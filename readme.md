@@ -43,6 +43,7 @@ A collection of guidelines, tools, talks and packages for React applications.
 - article: [Canvas vs. SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/)
 - github: [React GSAP (GreenSock Animation Platform)](https://github.com/bitworking/react-gsap)
 - video: [Declarative future of gestures and animations in React Native](https://www.youtube.com/watch?v=kdq4z2708VM)
+- github: [Lottie animation view for react ](https://github.com/chenqingspring/react-lottie)
 
 ## Styling
 
