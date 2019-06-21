@@ -85,6 +85,13 @@ function MyContainer () : JSX.Element {
 
 ```
 
+### Variable and function names in camelCase, tolerate snakeCase attributes ( eosio cpp style )
+
+```
+
+```
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
