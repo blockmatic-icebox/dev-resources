@@ -52,16 +52,25 @@ A collection of guidelines, tools, talks and packages for React applications.
 
 ### Components as function & methods as arrow functions
 
-```
-
+```jsx
+function MyContainer () : JSX.Element { 
+ const myMethod:void = () => { }  
+    
+ return <b/>;
+}
 ```
 
 ### Keep things that don't change outside of React components in VanillaJS
 
 Ej. defaults, constants, browser configuration.
 
-```
+```jsx
+const userAgent:string|undefined = window.navigator.userAgent;
+const pageTitle:string = randomTitle();
 
+function MyContainer () : JSX.Element {
+ return <b/>;
+}
 ```
 
 ### Use type inference for defining component state or default props
