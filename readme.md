@@ -44,6 +44,7 @@ A collection of guidelines, tools, talks and packages for React applications.
 - github: [React GSAP (GreenSock Animation Platform)](https://github.com/bitworking/react-gsap)
 - video: [Declarative future of gestures and animations in React Native](https://www.youtube.com/watch?v=kdq4z2708VM)
 - github: [Lottie animation view for react ](https://github.com/chenqingspring/react-lottie)
+- github: [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit)
 
 ## Styling
 
