@@ -33,6 +33,7 @@ A collection of guidelines, tools, talks and packages for React applications.
 
 - video: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
 - video: [Let's hook up with React](https://www.youtube.com/watch?v=h9qHKDlsnP0) 
+- video: [Fun with React Hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
 
 ## Animation
 
