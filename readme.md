@@ -49,6 +49,7 @@ A collection of guidelines, tools, talks and packages for React applications.
 ## Styling
 
 - website: [Emotion library](https://emotion.sh/docs/introduction)
+- video: [Artistic CSS](https://www.youtube.com/watch?v=aQBYAkaABkU)
 
 ## Code Conventions
 
