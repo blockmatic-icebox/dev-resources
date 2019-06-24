@@ -24,7 +24,7 @@ A collection of guidelines, tools, talks and packages for React applications.
 - article: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - article: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-# Typography
+## Typography
 
 - video: [Advanced Fluid Typography (and more) by Mike Riethmuller](https://www.youtube.com/watch?v=mAvQUIKtW_Y)
 - article: [Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
