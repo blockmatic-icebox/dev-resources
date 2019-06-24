@@ -27,6 +27,8 @@ A collection of guidelines, tools, talks and packages for React applications.
 # Typography
 
 - video: [Advanced Fluid Typography (and more) by Mike Riethmuller](https://www.youtube.com/watch?v=mAvQUIKtW_Y)
+- article: [Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
+
 
 ## Functional JavaScript with TypeScript 
 
