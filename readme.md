@@ -63,8 +63,8 @@ A collection of guidelines, tools, talks and packages for React applications.
 ### Components as function & methods as arrow functions
 
 ```jsx
-function MyContainer () : JSX.Element { 
- const myMethod:void = () => { }  
+function MyContainer () { 
+ const myMethod = () => { }  
     
  return <b/>;
 }
