@@ -31,7 +31,6 @@ A collection of guidelines, tools, talks and packages for React applications.
 - article: [More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography/)
 - tool: [Type Scale](https://type-scale.com/)
 - tool: [Modular Scale](https://www.modularscale.com)
-- 
 
 ## Functional JavaScript with TypeScript 
 
