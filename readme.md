@@ -29,7 +29,9 @@ A collection of guidelines, tools, talks and packages for React applications.
 - video: [Advanced Fluid Typography (and more) by Mike Riethmuller](https://www.youtube.com/watch?v=mAvQUIKtW_Y)
 - article: [Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
 - article: [More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography/)
-
+- tool: [Type Scale](https://type-scale.com/)
+- tool: [Modular Scale](https://www.modularscale.com)
+- 
 
 ## Functional JavaScript with TypeScript 
 
