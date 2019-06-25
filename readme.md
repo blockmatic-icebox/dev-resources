@@ -2,6 +2,8 @@
 
 A collection of guidelines, tools, talks and packages for React applications.
 
+_TLDR: Hooks, Functional JavaScript, TypeScript, Emotion, Pose, Fluid Layout and Typography._
+
 ## Must Know / Watch
 
 - video: [Everything You Know About Web Design Just Changed](https://www.youtube.com/watch?v=jBwBACbRuGY)
