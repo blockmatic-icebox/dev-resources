@@ -81,7 +81,7 @@ Ej. defaults, constants, browser configuration.
 const userAgent:string|undefined = window.navigator.userAgent;
 const pageTitle:string = randomTitle();
 
-function MyContainer () : JSX.Element {
+function MyContainer () {
  return <b/>;
 }
 ```
