@@ -31,6 +31,7 @@ A collection of guidelines, tools, talks and packages for React applications.
 - article: [More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography/)
 - tool: [Type Scale](https://type-scale.com/)
 - tool: [Modular Scale](https://www.modularscale.com)
+- video: [Simple Explanation Of rem & em CSS Units](https://www.youtube.com/watch?v=H4UtKu11yXg)
 
 ## Functional JavaScript with TypeScript 
 
