@@ -2,7 +2,7 @@
 
 A collection of guidelines, tools, talks and packages for React applications.
 
-_TLDR: Hooks, Functional JavaScript, TypeScript, Emotion, Pose, Fluid Layout and Typography._
+_TLDR: Hooks, Functional JavaScript ( No Classes! ), TypeScript, Emotion, Pose, Fluid Layout and Typography._
 
 ## Must Know / Watch
 
@@ -45,6 +45,7 @@ _TLDR: Hooks, Functional JavaScript, TypeScript, Emotion, Pose, Fluid Layout and
 - video: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
 - video: [Let's hook up with React](https://www.youtube.com/watch?v=h9qHKDlsnP0) 
 - video: [Fun with React Hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
+- video: [useContext() + useReducer() = Magic?](https://www.youtube.com/watch?v=R_7XRX7nLsw)
 - video: [React Hooks useContext](https://www.youtube.com/watch?v=xWXxkFzgnFM)
 - video: [React Hooks Make Using Context 10x Better](https://www.youtube.com/watch?v=cBM5xXyekmM)
 
