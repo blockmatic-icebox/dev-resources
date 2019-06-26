@@ -87,29 +87,21 @@ function MyContainer () {
 Ej. defaults, constants, browser configuration.
 
 ```jsx
-const userAgent:string|undefined = window.navigator.userAgent;
-const pageTitle:string = randomTitle();
+const userAgent = window.navigator.userAgent;
+const pageTitle = randomTitle();
 
 function MyContainer () {
  return <b/>;
 }
 ```
 
-### Use type inference for defining component state or default props
+### Variable and function names in camelCase, tolerate snake_ase attributes ( eosio cpp style )
 
-```
+```jsx
 
-```
-
-### Don't use enum
-
-```
-
-```
-
-### Variable and function names in camelCase, tolerate snakeCase attributes ( eosio cpp style )
-
-```
+const myVar = 'this a var or function name within the JS code'
+const puravidaAccount = await rpc.get_account('puravidadac1')
+console.log(puravidaAccount.last_code_update) // eosio snake case attributes, that's fine.
 
 ```
 
