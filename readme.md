@@ -51,6 +51,7 @@ _Everything traditional class components do. With a much cleaner API!_
 - article : [React Hooks in TypeScript](https://fettblog.eu/typescript-react/hooks/)
 - article : [TypeScript and React Hooks](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
 - video: [Why I Love useReducer](https://www.youtube.com/watch?v=o-nCM1857AQ)
+- website: [Use Hooks](https://usehooks.com/)
 
 
 ## Animation
@@ -69,6 +70,10 @@ _Everything traditional class components do. With a much cleaner API!_
 
 - website: [Emotion library](https://emotion.sh/docs/introduction)
 - video: [Artistic CSS](https://www.youtube.com/watch?v=aQBYAkaABkU)
+
+## EOSIO 
+
+- github: [React EOS Hooks](https://github.com/puravidadac/react-eos-hooks)
 
 ## Code Conventions
 
