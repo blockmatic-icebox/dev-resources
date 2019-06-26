@@ -49,6 +49,7 @@ _TLDR: Hooks, Functional JavaScript ( No Classes! ), TypeScript, Emotion, Pose, 
 - video: [React Hooks useContext](https://www.youtube.com/watch?v=xWXxkFzgnFM)
 - article : [React Hooks in TypeScript](https://fettblog.eu/typescript-react/hooks/)
 - article : [TypeScript and React Hooks](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
+- video: [Why I Love useReducer](https://www.youtube.com/watch?v=o-nCM1857AQ)
 
 
 ## Animation
