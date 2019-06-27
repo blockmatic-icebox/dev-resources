@@ -55,6 +55,7 @@ _Everything traditional class components do. With a much cleaner API!_
 - website: [Use Hooks](https://usehooks.com/)
 - video: [React Custom Hooks](https://www.youtube.com/watch?v=G3qVfQ5l-Cg)
 - video: [React Hooks: What will happen to the Container/Presenter Pattern?](https://www.youtube.com/watch?v=l6GTpKLWllQ)
+- video: [React Hooks - useContext & useReducer](https://www.youtube.com/watch?v=cjBm0HnYcqw)
 
 ## Animation
 
