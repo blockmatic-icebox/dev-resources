@@ -26,6 +26,7 @@ _Everything traditional class components do. With a much cleaner API!_
 - collection: [All The Videos in Layout Land](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70&index=1)
 - article: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - article: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- github: [Awesome CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid)
 
 ## Typography
 
@@ -41,6 +42,7 @@ _Everything traditional class components do. With a much cleaner API!_
 - video: [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - article: [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - video: [React Composition & Specialization](https://www.youtube.com/watch?v=VaXlL8nIhHw)
+- github: [Jargon from the functional programming world in simple terms! ](https://github.com/hemanth/functional-programming-jargon)
 
 ## React Hooks and Context 
 
