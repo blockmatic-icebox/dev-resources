@@ -40,6 +40,7 @@ _Everything traditional class components do. With a much cleaner API!_
 
 - video: [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - article: [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
+- video: [React Composition & Specialization](https://www.youtube.com/watch?v=VaXlL8nIhHw)
 
 ## React Hooks and Context 
 
