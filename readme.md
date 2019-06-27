@@ -43,6 +43,7 @@ _Everything traditional class components do. With a much cleaner API!_
 - article: [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - video: [React Composition & Specialization](https://www.youtube.com/watch?v=VaXlL8nIhHw)
 - github: [Jargon from the functional programming world in simple terms! ](https://github.com/hemanth/functional-programming-jargon)
+- github: [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 
 ## React Hooks and Context 
 
