@@ -61,6 +61,7 @@ _Everything traditional class components do. With a much cleaner API!_
 - video: [React Hooks - useContext & useReducer](https://www.youtube.com/watch?v=cjBm0HnYcqw)
 - article: [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/)
 - github: [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+- article [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
 
 ## Animation
 
