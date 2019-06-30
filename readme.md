@@ -50,7 +50,7 @@ _Everything traditional class components do. With a much cleaner API!_
 
 - website: [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
 - video: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
-- video: [React Context & Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI)
+- video: [React Context & Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
 - video: [Let's hook up with React](https://www.youtube.com/watch?v=h9qHKDlsnP0) 
 - video: [Fun with React Hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
 - video: [useContext() + useReducer() = Magic?](https://www.youtube.com/watch?v=R_7XRX7nLsw)
