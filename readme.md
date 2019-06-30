@@ -22,6 +22,7 @@ _Everything traditional class components do. With a much cleaner API!_
 - video: [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
 - video: [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 - video: [Flexbox vs. CSS Grid?](https://www.youtube.com/watch?v=hs3piaN4b5I)
+- video: [CSS Grid Tutorial](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
 - video: [Using Flexbox + CSS Grid Together](https://www.youtube.com/watch?v=dQHtT47eH0M)
 - collection: [All The Videos in Layout Land](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70&index=1)
 - article: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
