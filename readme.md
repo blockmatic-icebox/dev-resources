@@ -94,7 +94,6 @@ __Hooks, Context API, Functional JS ( No Classes! ), TypeScript, Emotion, Pose, 
 
 ## Tools
 
-- github: [ReactJS Code Snippets for VSCode](https://github.com/xabikos/vscode-react)
 - github: [React DevTools](https://github.com/facebook/react-devtools)
 
 ## Code Conventions
