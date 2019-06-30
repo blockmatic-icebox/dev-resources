@@ -5,6 +5,10 @@ A collection of guidelines, tools, talks and packages for React applications.
 _TLDR: Hooks, Context API, Functional JavaScript ( No Classes! ), TypeScript, Emotion, Pose, Fluid Layout and Typography._\
 _Everything traditional class components do. With a much cleaner API!_
 
+ Join the conversation in Telegram:
+ - [Pura Vida Dev Channel](https://t.me/puravidadev)
+ - [Pura Vida DAC Channel](https://t.me/puravidadac)
+
 ## Must Know / Watch
 
 - video: [Everything You Know About Web Design Just Changed](https://www.youtube.com/watch?v=jBwBACbRuGY)
