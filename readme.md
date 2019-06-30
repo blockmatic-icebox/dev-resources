@@ -92,6 +92,11 @@ __Hooks, Context API, Functional JS ( No Classes! ), TypeScript, Emotion, Pose, 
 
 - github: [React EOS Hooks](https://github.com/puravidadac/react-eos-hooks)
 
+## Tools
+
+- github: [ReactJS Code Snippets for VSCode](https://github.com/xabikos/vscode-react)
+- github: [React DevTools](https://github.com/facebook/react-devtools)
+
 ## Code Conventions
 
 ### Components as function & methods as arrow functions
