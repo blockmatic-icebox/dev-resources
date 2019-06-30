@@ -4,6 +4,11 @@ A collection of guidelines, tools, talks and packages for React applications.
 
 __Hooks, Context API, Functional JS ( No Classes! ), TypeScript, Emotion, Pose, Fluid Layout and Typography.__
 
+## Motivation
+
+We want to follow a common ReactJS code style convention across all projects to maximize reusability and facilitate collaboration. We have chosen the stack carefully so that it allows us to write robust and performant ReactJS and React Native applications with more concise and readable code.
+
+See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#motivation)
 
  Join the conversation in Telegram:
  - [Pura Vida Dev Channel](https://t.me/puravidadev)
