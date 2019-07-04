@@ -74,7 +74,8 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [React Hooks - useContext & useReducer](https://www.youtube.com/watch?v=cjBm0HnYcqw)
 - article: [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/)
 - github: [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-- article [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+- article: [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+- article: [The State Reducer Pattern](https://kentcdodds.com/blog/the-state-reducer-pattern)
 
 ## Animation
 
