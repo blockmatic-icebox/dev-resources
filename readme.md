@@ -76,6 +76,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - github: [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - article: [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
 - article: [The State Reducer Pattern](https://kentcdodds.com/blog/the-state-reducer-pattern)
+- video: [React Hooks useContext Tutorial (Storing a User)](https://www.youtube.com/watch?v=lhMKvyLRWo0)
 
 ## Animation
 
