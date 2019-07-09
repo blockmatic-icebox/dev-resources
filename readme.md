@@ -94,6 +94,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 - website: [Emotion library](https://emotion.sh/docs/introduction)
 - video: [Artistic CSS](https://www.youtube.com/watch?v=aQBYAkaABkU)
+- github: [React SVG Icons](https://github.com/react-icons/react-icons)
 
 ## EOSIO 
 
