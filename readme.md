@@ -82,6 +82,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 ## Animation
 
 - video: [Dead simple animation with React Pose](https://www.youtube.com/watch?v=BSbVB14riQI)
+- website: [Framer Motion](https://www.framer.com/motion)
 - video: [Snap.SVG Animator](https://www.youtube.com/watch?v=waTuhjBSJrs)
 - github: [React CSS Transition Replace](https://github.com/marnusw/react-css-transition-replace)
 - github: [React Transition Group](https://github.com/reactjs/react-transition-group/)
