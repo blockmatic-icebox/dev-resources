@@ -11,8 +11,8 @@ We want to follow a common ReactJS code style convention across all projects to 
 See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#motivation)
 
  Join the conversation in Telegram:
- - [Pura Vida Dev Channel](https://t.me/puravidadev)
- - [Pura Vida DAC Channel](https://t.me/puravidadac)
+ - [Pura Vida General Dev Channel](https://t.me/puravidadev)
+ - [Pura Vida EOS Channel](https://t.me/puravidaeos)
 
 ## Must Know / Watch
 
