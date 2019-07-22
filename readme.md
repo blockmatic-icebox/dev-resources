@@ -100,7 +100,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## EOSIO 
 
-- github: [React EOS Hooks](https://github.com/puravidadac/react-eos-hooks)
+- github: [React EOS Hooks](https://github.com/puravidaeos/react-eos-hooks)
 
 ## Tools
 
