@@ -50,7 +50,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 ## Functional JavaScript with TypeScript 
 
 - video: [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-- github: [Functional programming in TypeScript](https://github.com/gcanti/fp-ts)
+- github: [Functional programming in TypeScript](https://gcanti.github.io/fp-ts/)
 - article: [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - video: [React Composition & Specialization](https://www.youtube.com/watch?v=VaXlL8nIhHw)
 - github: [Jargon from the functional programming world in simple terms! ](https://github.com/hemanth/functional-programming-jargon)
