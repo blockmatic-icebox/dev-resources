@@ -103,6 +103,10 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 - github: [React EOS Hooks](https://github.com/puravidaeos/react-eos-hooks)
 
+## GraphQL
+
+- [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
+
 ## Tools
 
 - github: [React DevTools](https://github.com/facebook/react-devtools)
