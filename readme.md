@@ -105,6 +105,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## GraphQL
 
+- [React Apollo Hooks](https://github.com/trojanowski/react-apollo-hooks)
 - [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
 
 ## Tools
