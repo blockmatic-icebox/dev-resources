@@ -79,6 +79,8 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - article: [The State Reducer Pattern](https://kentcdodds.com/blog/the-state-reducer-pattern)
 - video: [React Hooks useContext Tutorial (Storing a User)](https://www.youtube.com/watch?v=lhMKvyLRWo0)
 - video: [Explore the useMemo, useCallback, and useRef Hooks in React](https://www.youtube.com/watch?v=IivieWL_g4s)
+- website: [react-hooks.org](https://react-hooks.org/)
+- website: [usehooks.com](https://usehooks.com)
 
 ## Animation
 
