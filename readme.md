@@ -40,6 +40,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## Typography
 
+- video: [Typography Basics Explained](https://www.youtube.com/watch?v=rF0zvSrF438)
 - video: [Advanced Fluid Typography (and more) by Mike Riethmuller](https://www.youtube.com/watch?v=mAvQUIKtW_Y)
 - article: [Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
 - article: [More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography/)
