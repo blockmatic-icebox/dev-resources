@@ -1,4 +1,4 @@
-# The Pura Vida React Stack
+# Blockmatic's React Stack
 
 A collection of guidelines, tools, talks and packages for React applications.
 
@@ -9,10 +9,6 @@ __Hooks, Context API, Functional JS ( No Classes! ), TypeScript, Emotion, Pose, 
 We want to follow a common ReactJS code style convention across all projects to maximize reusability and facilitate collaboration. We have chosen the stack carefully so that it allows us to write robust and performant ReactJS and React Native applications with more concise and readable code.
 
 See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#motivation)
-
- Join the conversation in Telegram:
- - [Pura Vida General Dev Channel](https://t.me/puravidadev)
- - [Pura Vida EOS Channel](https://t.me/puravidaeos)
 
 ## Must Know / Watch
 
@@ -150,8 +146,8 @@ function MyContainer () {
 ```jsx
 
 const myVar = 'this a var or function name within the JS code'
-const puravidaAccount = await rpc.get_account('puravidadac1')
-console.log(puravidaAccount.last_code_update) // eosio snake case attributes, that's fine.
+const blockmaticAccount = await rpc.get_account('blockmaticio')
+console.log(blockmaticAccount.last_code_update) // eosio snake case attributes, that's fine.
 
 ```
 
