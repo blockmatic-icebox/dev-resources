@@ -1,8 +1,8 @@
-# React Stack
+# EOS dApp Stack
 
-A collection of guidelines, tools, talks and packages for React applications.
+A collection of guidelines, tools, talks and packages for building ReactJS EOSIO dApps.
 
-__Hooks, Context API, Functional JS ( No Classes! ), TypeScript, Emotion, Pose, Fluid Layout and Typography.__
+__EOSIO, Functional JS, TypeScript, React ( Hooks, Context, Emotion, Pose ), Fluid Layout and Typography.__
 
 ## Motivation
 
@@ -104,7 +104,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## EOSIO 
 
-- github: [React EOS Hooks](https://github.com/puravidaeos/react-eos-hooks)
+- github: [React EOS Hooks](https://github.com/blockmatic/eos-hooks)
 
 ## GraphQL
 
