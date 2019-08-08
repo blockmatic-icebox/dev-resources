@@ -1,8 +1,8 @@
-# EOS dApp Stack
+# React dApp Stack
 
 A collection of guidelines, tools, talks and packages for building ReactJS EOSIO dApps.
 
-__EOSIO, Functional JS, TypeScript, React ( Hooks, Context, Emotion, Pose ), Fluid Layout and Typography.__
+__Functional JS, TypeScript, Hooks, Context, Suspense, Emotion, Pose, Fluid Layout and Typography.__
 
 ## Motivation
 
@@ -81,6 +81,10 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [Explore the useMemo, useCallback, and useRef Hooks in React](https://www.youtube.com/watch?v=IivieWL_g4s)
 - website: [react-hooks.org](https://react-hooks.org/)
 - website: [usehooks.com](https://usehooks.com)
+
+## Translations / Internationalization (i18n) 
+
+- github: [usetranslation-hook](https://react.i18next.com/latest/usetranslation-hook)
 
 ## Animation
 
