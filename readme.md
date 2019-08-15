@@ -81,6 +81,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [Explore the useMemo, useCallback, and useRef Hooks in React](https://www.youtube.com/watch?v=IivieWL_g4s)
 - website: [react-hooks.org](https://react-hooks.org/)
 - website: [usehooks.com](https://usehooks.com)
+- github: [Collection of essential React Hooks. Port of libreact](https://github.com/streamich/react-use)
 
 ## Translations / Internationalization (i18n) 
 
