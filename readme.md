@@ -24,6 +24,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 - video: [CSS Grid Changes EVERYTHING ](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 - video: [CSS Grid Tutorial | Responsive Crash Course](https://www.youtube.com/watch?v=SPFDLHNm5KQ)
+- website: [Learn CSS Grid](https://learncssgrid.com/)
 - video: [Designing for A Viewport](https://www.youtube.com/watch?v=QY3lTBZnJmE)
 - video: [Introduction to Viewport Units](https://www.youtube.com/watch?v=_sgF8I-Q1Gs)
 - video: [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
