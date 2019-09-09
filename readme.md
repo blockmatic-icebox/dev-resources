@@ -126,6 +126,13 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - website: [Flexbox.help](https://flexbox.help/)
 - website: [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 
+## Gatsby
+
+- video: [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI)
+- video: [How Next.js and Gatsby work and their differences](https://www.youtube.com/watch?v=xC4Yq_mXvPM)
+- website: [Theme UI](https://theme-ui.com/)
+- github: [Blockmatic's Gatsby Starter](https://github.com/blockmatic/gatsby-starter)
+
 ## Code Conventions
 
 ### Components as function & methods as arrow functions
