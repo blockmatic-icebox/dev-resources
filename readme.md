@@ -106,6 +106,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 ## Styling
 
 - website: [Emotion library](https://emotion.sh/docs/introduction)
+- webisti: [PolishedJS - A lightweight toolset for writing styles in JavaScript](https://polished.js.org/)
 - video: [Artistic CSS](https://www.youtube.com/watch?v=aQBYAkaABkU)
 - github: [React SVG Icons](https://github.com/react-icons/react-icons)
 - github: [Awesome Emotion](https://github.com/emotion-js/awesome-emotion)
