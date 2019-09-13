@@ -85,6 +85,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - website: [react-hooks.org](https://react-hooks.org/)
 - website: [usehooks.com](https://usehooks.com)
 - github: [Collection of essential React Hooks. Port of libreact](https://github.com/streamich/react-use)
+- article: [State Management with React Hooks — No Redux or Context API](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
 
 ## Translations / Internationalization (i18n) 
 
