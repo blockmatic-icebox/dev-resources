@@ -122,8 +122,11 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - [React Apollo Hooks](https://github.com/trojanowski/react-apollo-hooks)
 - [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
 
+
 ## Tools
 
+- github: [Lerna](https://github.com/lerna/lerna)
+- video: [How to Use Lerna](https://www.youtube.com/watch?v=p6qoJ4apCjA)
 - github: [React DevTools](https://github.com/facebook/react-devtools)
 - github: [Awesome React Components](https://github.com/brillout/awesome-react-components)
 - website: [Flexbox.help](https://flexbox.help/)
