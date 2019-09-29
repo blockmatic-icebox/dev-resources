@@ -61,6 +61,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## React Hooks and Context 
 
+- video: [React.js Hooks Crash Course](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
 - website: [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
 - video: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
 - video: [React Context & Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
