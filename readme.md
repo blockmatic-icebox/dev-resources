@@ -75,7 +75,6 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - website: [Use Hooks](https://usehooks.com/)
 - video: [React Custom Hooks](https://www.youtube.com/watch?v=G3qVfQ5l-Cg)
 - video: [React Hooks: What will happen to the Container/Presenter Pattern?](https://www.youtube.com/watch?v=l6GTpKLWllQ)
-- video: [React Hooks - useContext & useReducer](https://www.youtube.com/watch?v=cjBm0HnYcqw)
 - article: [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/)
 - github: [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - article: [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
