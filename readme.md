@@ -66,6 +66,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
 - video: [React Hook Pitfalls - Kent C. Dodds - React Rally 2019](https://www.youtube.com/watch?v=VIRcX2X7EUk)
 - video: [How React Hooks Change The Way We Build Forms](https://www.youtube.com/watch?v=8yo44xN7-nQ)
+- video: [React Hooks Tutorial (Custom Hooks) | Form Validation made easy](https://www.youtube.com/watch?v=SXIfnNvYrZE)
 - video: [React Context & Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
 - video: [Let's hook up with React](https://www.youtube.com/watch?v=h9qHKDlsnP0) 
 - video: [Fun with React Hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
