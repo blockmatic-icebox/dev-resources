@@ -69,7 +69,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [React Hooks Tutorial (Custom Hooks) | Form Validation made easy](https://www.youtube.com/watch?v=SXIfnNvYrZE)
 - video: [React Context & Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
 - video: [Let's hook up with React](https://www.youtube.com/watch?v=h9qHKDlsnP0) 
-- video: [Fun with React Hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
+- video: [Fun with React Hooks - Michael Jackson and Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw)
 - video: [useContext() + useReducer() = Magic?](https://www.youtube.com/watch?v=R_7XRX7nLsw)
 - video: [React Hooks useContext](https://www.youtube.com/watch?v=xWXxkFzgnFM)
 - article : [React Hooks in TypeScript](https://fettblog.eu/typescript-react/hooks/)
