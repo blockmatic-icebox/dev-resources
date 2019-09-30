@@ -81,6 +81,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - article : [TypeScript and React Hooks](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
 - video: [Why I Love useReducer](https://www.youtube.com/watch?v=o-nCM1857AQ)
 - video: [useCallback Hook and React.memo to minimize re-renders](https://www.youtube.com/watch?v=3Yyx9rqokN8)
+- article: [When to useLayoutEffect Instead of useEffect - Dave Ceddia](https://daveceddia.com/useeffect-vs-uselayouteffect/)
 - website: [Use Hooks](https://usehooks.com/)
 - video: [React Custom Hooks](https://www.youtube.com/watch?v=G3qVfQ5l-Cg)
 - video: [React Hooks: What will happen to the Container/Presenter Pattern?](https://www.youtube.com/watch?v=l6GTpKLWllQ)
