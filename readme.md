@@ -19,6 +19,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) 
 - video: [How does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc) 
 - video: [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+- article: [AHA Programming: Avoid Hasty Abstractions](https://kentcdodds.com/blog/aha-programming)
 
 ## Layout & CSS
 
