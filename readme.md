@@ -2,7 +2,7 @@
 
 A collection of guidelines, tools, talks and packages for building ReactJS EOSIO dApps.
 
-__Functional JS, TypeScript, Hooks, Context, Suspense, Emotion, Pose, Fluid Layout and Typography.__
+__Functional JS, TypeScript, Hooks, Context, Suspense, Emotion, Framer/Pose, Fluid Layout and Typography.__
 
 ## Motivation
 
@@ -65,6 +65,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [React.js Hooks Crash Course](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
 - website: [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
 - video: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
+- podcasts: [Realigning Your Model of React After Hooks - With Dan Abramov](https://kentcdodds.com/chats-with-kent-podcast/seasons/01/episodes/realigning-your-model-of-react-after-hooks-with-dan-abramov)
 - article: [When to useMemo and useCallback - Kent C. Dodds](https://kentcdodds.com/blog/usememo-and-usecallback)
 - video: [React Hook Pitfalls - Kent C. Dodds - React Rally 2019](https://www.youtube.com/watch?v=VIRcX2X7EUk)
 - video: [How React Hooks Change The Way We Build Forms](https://www.youtube.com/watch?v=8yo44xN7-nQ)
