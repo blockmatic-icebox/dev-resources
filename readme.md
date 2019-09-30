@@ -201,6 +201,15 @@ const inc = useCallback(() => setCount(c => c + 1), [])
 const [count, inc] = useReducer(c => c + 1, 0);
 ```
 
+### avoid over optimization (`useCallback` and `useMemo`)
+
+Apply the AHA Programming principle and wait until the abstraction/optimization is screaming at you before applying it and you'll save yourself from incurring the costs without reaping the benefit.
+
+Specifically the cost for `useCallback` and `useMemo` are that you make the code more complex for your co-workers, you could make a mistake in the dependencies array, and you're potentially making performance worse by invoking the built-in hooks and preventing dependencies and memoized values from being garbage collected. Those are all fine costs to incur if you get the performance benefits necessary, but it's best to measure first.
+
+- https://kentcdodds.com/blog/usememo-and-usecallback
+- https://medium.com/@sdolidze/react-hooks-memoization-99a9a91c8853
+
 
 ## Contributors ✨
 
