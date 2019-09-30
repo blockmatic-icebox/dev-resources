@@ -186,6 +186,14 @@ console.log(blockmaticAccount.last_code_update) // eosio snake case attributes, 
 
 ```
 
+### useState with functional updates
+
+```jsx
+const [count, setCount] = useState(0)
+const inc = useCallback(() => setCount(c => c + 1), [])
+```
+
+
 
 ## Contributors ✨
 
