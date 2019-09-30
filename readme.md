@@ -124,7 +124,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## EOSIO 
 
-- github: [React EOS Hooks](https://github.com/blockmatic/eos-hooks)
+- github: [React EOSIO Hooks](https://github.com/blockmatic/eosio-hooks)
 
 ## GraphQL
 
