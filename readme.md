@@ -193,6 +193,13 @@ const [count, setCount] = useState(0)
 const inc = useCallback(() => setCount(c => c + 1), [])
 ```
 
+### useReducer
+
+`useReducer` memoization works exactly as `useState` in this case. Since dispatch is guaranteed to have same reference across renders, `useCallback` is not needed, which makes code less error-prone to memoization related bugs.
+
+```jsx
+const [count, inc] = useReducer(c => c + 1, 0);
+```
 
 
 ## Contributors ✨
