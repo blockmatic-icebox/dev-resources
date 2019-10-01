@@ -80,6 +80,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [React Hooks useContext](https://www.youtube.com/watch?v=xWXxkFzgnFM)
 - article : [React Hooks in TypeScript](https://fettblog.eu/typescript-react/hooks/)
 - article : [TypeScript and React Hooks](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
+- video: [The useReducer Hook - Dave Ceddia](https://www.youtube.com/watch?v=sYDFCuZHrqw)
 - video: [Why I Love useReducer](https://www.youtube.com/watch?v=o-nCM1857AQ)
 - website: [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - video: [useCallback Hook and React.memo to minimize re-renders](https://www.youtube.com/watch?v=3Yyx9rqokN8)
