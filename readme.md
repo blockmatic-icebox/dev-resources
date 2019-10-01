@@ -123,6 +123,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [Artistic CSS](https://www.youtube.com/watch?v=aQBYAkaABkU)
 - github: [React SVG Icons](https://github.com/react-icons/react-icons)
 - github: [Awesome Emotion](https://github.com/emotion-js/awesome-emotion)
+- website: [Theme UI](https://theme-ui.com/)
 
 ## EOSIO 
 
@@ -133,6 +134,12 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - [React Apollo Hooks](https://github.com/trojanowski/react-apollo-hooks)
 - [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
 
+## Gatsby
+
+- video: [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI)
+- video: [How Next.js and Gatsby work and their differences](https://www.youtube.com/watch?v=xC4Yq_mXvPM)
+- github: [Blockmatic's Gatsby Starter](https://github.com/blockmatic/gatsby-starter)
+- video: [Composing and styling Gatsby themes](https://www.youtube.com/watch?v=6Z4p-qjnKCQ)
 
 ## Tools
 
@@ -146,13 +153,9 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - website: [Flexbox.help](https://flexbox.help/)
 - website: [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 
-## Gatsby
+## Debugging
 
-- video: [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI)
-- video: [How Next.js and Gatsby work and their differences](https://www.youtube.com/watch?v=xC4Yq_mXvPM)
-- github: [Blockmatic's Gatsby Starter](https://github.com/blockmatic/gatsby-starter)
-- video: [Composing and styling Gatsby themes](https://www.youtube.com/watch?v=6Z4p-qjnKCQ)
-- website: [Theme UI](https://theme-ui.com/)
+- video: [What's New with React Dev Tools 4](https://youtu.be/QFKZmBMgvus?t=468)
 
 ## Code Conventions
 
