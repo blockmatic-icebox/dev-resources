@@ -156,6 +156,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 ## Debugging
 
 - video: [What's New with React Dev Tools 4](https://youtu.be/QFKZmBMgvus?t=468)
+- website: [React Devtools Interactive Tutorial](https://react-devtools-tutorial.now.sh/)
 
 ## Code Conventions
 
