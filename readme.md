@@ -135,6 +135,10 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - [React Apollo Hooks](https://github.com/trojanowski/react-apollo-hooks)
 - [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
 
+## React Native
+
+- [Getting Started With Expo and React Native](https://www.youtube.com/watch?v=xAjkuVuLLvo)
+
 ## Gatsby
 
 - video: [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI)
