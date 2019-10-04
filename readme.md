@@ -139,6 +139,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 - [Getting Started With Expo and React Native](https://www.youtube.com/watch?v=xAjkuVuLLvo)
 - [React Native CLI vs Expo](https://www.youtube.com/watch?v=uHlAM4ICi1s)
+- [React Native Web](https://github.com/necolas/react-native-web)
 
 ## Gatsby
 
