@@ -3,13 +3,10 @@
 	<a href="https://git.io/col">
 		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
 	</a>
-  <a href="https://github.com/blockmatic/react-dapp-stack">
+  <a href="https://developers.blockmatic.io">
 		<img src="https://img.shields.io/badge/code%20style-blockmatic-brightgreen.svg" alt="Blockmatic Standard">
 	</a>
 	<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT" />
-  <a href="https://www.conventionalcommits.org/en/v1.0.0/">
-		<img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" alt="Conventional Commits" />
-	</a>
 	<a href="https://twitter.com/intent/follow?screen_name=blockmatic_io">
 		<img src="https://img.shields.io/twitter/follow/blockmatic_io.svg?style=social&logo=twitter" alt="Follow on Twitter" />
 	</a>
