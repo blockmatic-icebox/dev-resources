@@ -153,12 +153,13 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - github: [React Apollo Hooks](https://github.com/trojanowski/react-apollo-hooks)
 - github: [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
 
-## React Native
+## React Native & Expo
 
 - video: [Getting Started With Expo and React Native](https://www.youtube.com/watch?v=xAjkuVuLLvo)
 - video: [React Native CLI vs Expo](https://www.youtube.com/watch?v=uHlAM4ICi1s)
 - website: [React Native Web](https://github.com/necolas/react-native-web)
 - video: [Chen Feldman - React Native - Under the Bridge | React Next 2019](https://www.youtube.com/watch?v=_IiDHmAPH28)
+- video: [Walkthrough: Expo CLI](https://www.youtube.com/watch?v=9rK5FdbOqpk)
 
 ## Gatsby
 
