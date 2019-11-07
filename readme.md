@@ -20,7 +20,9 @@
 
 A collection of guidelines, tools, talks and packages for building ReactJS EOSIO dApps.
 
-__Functional JS, TypeScript, Hooks, Context, Suspense, Emotion, Theme UI, Framer/Pose, Fluid Layout and Typography.__
+Blockmatic code style convention aims to maximize reusability and facilitate collaboration. We have chosen the stack carefully so that it allows us to write robust and performant ReactJS and React Native applications with more concise and readable code.
+
+__Functional JS, TypeScript, Hooks, Context, Suspense, Theme UI, Framer, Fluid Layout and Typography.__
 
 ## Motivation
 
