@@ -273,11 +273,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 Read the [contributing guidelines](https://developers.blockmatic.io) for details.
 
----
-
 ## Blockmatic
 
-Blockmatic is building robust ecosystem of people and tools for development of decentralized applications (dApps) and fintech solutions.
+Blockmatic is building robust ecosystem of people and tools for development of decentralized applications.
+
+[blockmatic.io](https://blockmatic.io)
 
 [blockmatic.io](https://blockmatic.io)
 
