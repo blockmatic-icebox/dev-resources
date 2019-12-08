@@ -30,6 +30,12 @@ We want to follow a common ReactJS code style convention across all projects to 
 
 See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#motivation)
 
+## TELOS DreamStack
+
+The TELOS DreamStack Project follows this react stack. It provides set of guidelines, tools and starters to speed up dApp development following best practices for security, performance and maintainability of your application.
+
+[telosdreamstack.io](https://telosdreamstack.io)
+
 ## Must Know / Watch
 
 - video: [Everything You Know About Web Design Just Changed](https://www.youtube.com/watch?v=jBwBACbRuGY)
