@@ -285,8 +285,6 @@ Blockmatic is building robust ecosystem of people and tools for development of d
 
 [blockmatic.io](https://blockmatic.io)
 
-[blockmatic.io](https://blockmatic.io)
-
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
