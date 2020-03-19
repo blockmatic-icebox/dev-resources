@@ -131,6 +131,7 @@ The TELOS DreamStack Project follows this react stack. It provides set of guidel
 
 ## Animation
 
+- github: [React Motion demos](https://github.com/chenglou/react-motion/wiki/Gallery-of-third-party-React-Motion-demos)
 - video: [Dead simple animation with React Pose](https://www.youtube.com/watch?v=BSbVB14riQI)
 - website: [Framer Motion](https://www.framer.com/motion)
 - video: [Snap.SVG Animator](https://www.youtube.com/watch?v=waTuhjBSJrs)
