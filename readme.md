@@ -132,7 +132,7 @@ The TELOS DreamStack Project follows this react stack. It provides set of guidel
 ## Animation
 
 - github: [React Motion demos](https://github.com/chenglou/react-motion/wiki/Gallery-of-third-party-React-Motion-demos)
-- video: [Dead simple animation with React Pose](https://www.youtube.com/watch?v=BSbVB14riQI)
+- video: [The State of Animation in React](https://www.youtube.com/watch?v=1tavDv5hXpo)
 - website: [Framer Motion](https://www.framer.com/motion)
 - video: [Snap.SVG Animator](https://www.youtube.com/watch?v=waTuhjBSJrs)
 - github: [React CSS Transition Replace](https://github.com/marnusw/react-css-transition-replace)
@@ -142,6 +142,7 @@ The TELOS DreamStack Project follows this react stack. It provides set of guidel
 - video: [Declarative future of gestures and animations in React Native](https://www.youtube.com/watch?v=kdq4z2708VM)
 - github: [Lottie animation view for react ](https://github.com/chenqingspring/react-lottie)
 - github: [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit)
+- video: [Dead simple animation with React Pose](https://www.youtube.com/watch?v=BSbVB14riQI)
 
 ## Styling
 
