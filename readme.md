@@ -177,7 +177,7 @@ The TELOS DreamStack Project follows this react stack. It provides set of guidel
 ### Continuous Integration & Delivery
 
 - website: [nevercode.io](https://nevercode.io/)
-- website: [appcenter.ms] (https://appcenter.ms/)
+- website: [appcenter.ms](https://appcenter.ms/)
 
 ## Gatsby
 
