@@ -171,6 +171,7 @@ The TELOS DreamStack Project follows this react stack. It provides set of guidel
 - website: [React Native Web](https://github.com/necolas/react-native-web)
 - video: [Chen Feldman - React Native - Under the Bridge | React Next 2019](https://www.youtube.com/watch?v=_IiDHmAPH28)
 - video: [Walkthrough: Expo CLI](https://www.youtube.com/watch?v=9rK5FdbOqpk)
+- website: [Awesome React Native](https://www.awesome-react-native.com)
 
 ## Gatsby
 
