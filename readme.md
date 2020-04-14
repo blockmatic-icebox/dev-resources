@@ -174,6 +174,11 @@ The TELOS DreamStack Project follows this react stack. It provides set of guidel
 - website: [Awesome React Native](https://www.awesome-react-native.com)
 - github: [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
 
+### Continuous Integration & Delivery
+
+- website: [nevercode.io](https://nevercode.io/)
+- website: [appcenter.ms] (https://appcenter.ms/)
+
 ## Gatsby
 
 - video: [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI)
