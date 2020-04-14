@@ -168,11 +168,14 @@ The TELOS DreamStack Project follows this react stack. It provides set of guidel
 
 - video: [Getting Started With Expo and React Native](https://www.youtube.com/watch?v=xAjkuVuLLvo)
 - video: [React Native CLI vs Expo](https://www.youtube.com/watch?v=uHlAM4ICi1s)
+- video: [Expo CLI](https://www.youtube.com/watch?v=9rK5FdbOqpk)
+- video: [React Native CLI](https://www.youtube.com/watch?v=DYA6QMsq1fM)
 - website: [React Native Web](https://github.com/necolas/react-native-web)
 - video: [Chen Feldman - React Native - Under the Bridge | React Next 2019](https://www.youtube.com/watch?v=_IiDHmAPH28)
 - video: [Walkthrough: Expo CLI](https://www.youtube.com/watch?v=9rK5FdbOqpk)
 - website: [Awesome React Native](https://www.awesome-react-native.com)
 - github: [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
+
 
 ### Continuous Integration & Delivery
 
