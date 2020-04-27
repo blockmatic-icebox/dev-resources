@@ -79,6 +79,7 @@ The TELOS DreamStack Project follows this react stack. It provides set of guidel
 ## Functional JavaScript with TypeScript 
 
 - video: [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- github: [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - github: [Functional programming in TypeScript](https://gcanti.github.io/fp-ts/)
 - article: [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - video: [React Composition & Specialization](https://www.youtube.com/watch?v=VaXlL8nIhHw)
