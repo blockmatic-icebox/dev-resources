@@ -29,12 +29,6 @@ We want to follow a common ReactJS code style convention across all projects to 
 
 See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#motivation)
 
-## TELOS DreamStack
-
-The TELOS DreamStack Project follows this react stack. It provides set of guidelines, tools and starters to speed up dApp development following best practices for security, performance and maintainability of your application.
-
-[telosdreamstack.io](https://telosdreamstack.io)
-
 ## Must Know / Watch
 
 - video: [Everything You Know About Web Design Just Changed](https://www.youtube.com/watch?v=jBwBACbRuGY)
@@ -176,6 +170,7 @@ The TELOS DreamStack Project follows this react stack. It provides set of guidel
 - video: [Walkthrough: Expo CLI](https://www.youtube.com/watch?v=9rK5FdbOqpk)
 - website: [Awesome React Native](https://www.awesome-react-native.com)
 - github: [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
+- video: [Why React Native Gesture Handler & Reanimated](https://www.youtube.com/watch?v=aoENL4gF9rE)
 
 
 ### Continuous Integration & Delivery
