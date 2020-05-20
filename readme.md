@@ -183,6 +183,8 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 ### React Native Accesibility
 
 - video: [Accessibility with React Native Apps in a Blind World](https://www.youtube.com/watch?v=TFKPJKAbvbk)
+- website: [Android's Overlay Attacks](https://labs.f-secure.com/blog/how-are-we-doing-with-androids-overlay-attacks-in-2020/) - Vulnerability
+- website: [Cloak and Dagger](https://cloak-and-dagger.org/) - Vulnerability
 
 ## Gatsby
 
