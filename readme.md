@@ -180,6 +180,10 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - website: [appcenter](https://appcenter.ms/)
 - website: [firebase](https://firebase.google.com/products/app-distribution/)
 
+### React Native Accesibility
+
+- video: [Accessibility with React Native Apps in a Blind World](https://www.youtube.com/watch?v=TFKPJKAbvbk)
+
 ## Gatsby
 
 - video: [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI)
