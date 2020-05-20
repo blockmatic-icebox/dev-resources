@@ -212,13 +212,15 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## Code Conventions
 
-### Components as function & methods as arrow functions
+### Define components and methods as constant arrow functions
+
+It helps with type inference and typescript intelisense in your VSCode
 
 ```jsx
-function MyContainer () { 
+const MyComponent: React:FC = ({children}) => { 
  const myMethod = () => { }  
     
- return <b/>;
+ return <View>{children}</View>;
 }
 ```
 
@@ -230,12 +232,12 @@ Ej. defaults, constants, browser configuration.
 const userAgent = window.navigator.userAgent;
 const pageTitle = randomTitle();
 
-function MyContainer () {
- return <b/>;
+const MyPageTitle: React:FC = ({children}) =>  {
+ return <Text>{pageTitle}</Text>;
 }
 ```
 
-### Variable and function names in camelCase, tolerate snake_ase attributes ( eosio cpp style )
+### Names in camelCase, tolerate snake_ase attributes ( eosio cpp style )
 
 ```jsx
 
@@ -248,8 +250,8 @@ console.log(blockmaticAccount.last_code_update) // eosio snake case attributes, 
 ### useState with functional updates
 
 ```jsx
-const [count, setCount] = useState(0)
-const inc = useCallback(() => setCount(c => c + 1), [])
+const [count, setCount] = React.useState(0)
+const inc = React.useCallback(() => setCount(c => c + 1), [])
 ```
 
 ### useReducer
@@ -257,7 +259,7 @@ const inc = useCallback(() => setCount(c => c + 1), [])
 `useReducer` memoization works exactly as `useState` in this case. Since dispatch is guaranteed to have same reference across renders, `useCallback` is not needed, which makes code less error-prone to memoization related bugs.
 
 ```jsx
-const [count, inc] = useReducer(c => c + 1, 0);
+const [count, inc] = React.useReducer(c => c + 1, 0);
 ```
 
 ### avoid over optimization (`useCallback` and `useMemo`)
