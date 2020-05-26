@@ -82,6 +82,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## React Hooks and Context 
 
+- video: [Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
 - video: [React.js Hooks Crash Course](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
 - video: [React Hooks by Nicolas Marcora - August 2019 ](https://www.youtube.com/watch?v=ymMeu3foD_0)
 - website: [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
