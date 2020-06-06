@@ -173,6 +173,12 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - github: [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
 - video: [Why React Native Gesture Handler & Reanimated](https://www.youtube.com/watch?v=aoENL4gF9rE)
 
+### Debugging
+
+- website: [Flipper](https://fbflipper.com/)
+- github: [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+- github: [Reactotron](https://github.com/infinitered/reactotron)
+
 
 ### Continuous Integration & Delivery
 
