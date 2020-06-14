@@ -40,6 +40,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 - article: [AHA Programming: Avoid Hasty Abstractions](https://kentcdodds.com/blog/aha-programming)
 - github: [Advanced React Patterns v2](https://github.com/kentcdodds/advanced-react-patterns-v2)
+- website: [Art of debugging with Chrome DevTools](https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4)
 
 ## Layout & CSS
 
