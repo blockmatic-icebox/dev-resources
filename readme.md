@@ -39,6 +39,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [How does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc) 
 - video: [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 - article: [AHA Programming: Avoid Hasty Abstractions](https://kentcdodds.com/blog/aha-programming)
+- github: [Advanced React Patterns v2](https://github.com/kentcdodds/advanced-react-patterns-v2)
 
 ## Layout & CSS
 
@@ -82,6 +83,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## React Hooks and Context 
 
+- video: [Requisite React: Learn how to use React Hooks, Suspense & JSX - Kent C. Dodds](https://www.youtube.com/watch?v=tO8qHlr6Wqg)
 - video: [Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
 - video: [React.js Hooks Crash Course](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
 - video: [React Hooks by Nicolas Marcora - August 2019 ](https://www.youtube.com/watch?v=ymMeu3foD_0)
