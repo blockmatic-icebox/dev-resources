@@ -67,6 +67,7 @@ __Functional JS, TypeScript, Hooks, Emotion, Framer, Fluid Layout and Typography
 
 ## Functional JavaScript with TypeScript 
 
+- video: [dotJS 2018 - Anders Hejlsberg - TypeScript: Static types for JavaScript](https://www.youtube.com/watch?v=ET4kT88JRXs)
 - video: [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - github: [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - github: [Functional programming in TypeScript](https://gcanti.github.io/fp-ts/)
