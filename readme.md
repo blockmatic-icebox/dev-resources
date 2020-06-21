@@ -17,17 +17,10 @@
 
 # React dApp Stack
 
-A collection of guidelines, tools, talks and packages for building ReactJS EOSIO dApps.
+A curated collection of tutorials, talks, packages guidelines and tools for building React applications.
+This collection is the result of many years of frontend experience with React and other technologies. 
 
-__Functional JS, TypeScript, Hooks, Context, Suspense, Theme UI, Framer, Fluid Layout and Typography.__
-
-Maximize reusability and facilitate collaboration. We have chosen the stack carefully so that it allows us to write robust and performant ReactJS and React Native applications with more concise and readable code.
-
-## Motivation
-
-We want to follow a common ReactJS code style convention across all projects to maximize reusability and facilitate collaboration. We have chosen the stack carefully so that it allows us to write robust and performant ReactJS and React Native applications with more concise and readable code.
-
-See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#motivation)
+__Functional JS, TypeScript, Hooks, Emotion, Framer, Fluid Layout and Typography.__
 
 ## Must Know / Watch
 
@@ -84,6 +77,7 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 
 ## React Hooks and Context 
 
+- github: [Hooks Architecture - A flexible and idiomatic architecture](https://github.com/blockmatic/hooks-architecture)
 - video: [Requisite React: Learn how to use React Hooks, Suspense & JSX - Kent C. Dodds](https://www.youtube.com/watch?v=tO8qHlr6Wqg)
 - video: [Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
 - video: [React.js Hooks Crash Course](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
@@ -151,7 +145,6 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - video: [Artistic CSS](https://www.youtube.com/watch?v=aQBYAkaABkU)
 - github: [React SVG Icons](https://github.com/react-icons/react-icons)
 - github: [Awesome Emotion](https://github.com/emotion-js/awesome-emotion)
-- website: [Theme UI](https://theme-ui.com/)
 - article: [What are Design Tokens](https://css-tricks.com/what-are-design-tokens/)
 
 ## EOSIO 
@@ -215,72 +208,10 @@ See also [ReactJS Hooks Motivation](https://reactjs.org/docs/hooks-intro.html#mo
 - website: [Flexbox.help](https://flexbox.help/)
 - website: [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 
-## Debugging
+## Web Debugging
 
 - video: [What's New with React Dev Tools 4](https://youtu.be/QFKZmBMgvus?t=468)
 - website: [React Devtools Interactive Tutorial](https://react-devtools-tutorial.now.sh/)
-
-## Code Conventions
-
-### Define components and methods as constant arrow functions
-
-It helps with type inference and typescript intelisense in your VSCode
-
-```jsx
-const MyComponent: React:FC = ({children}) => { 
- const myMethod = () => { }  
-    
- return <View>{children}</View>;
-}
-```
-
-### Keep things that don't change outside of React components in VanillaJS
-
-Ej. defaults, constants, browser configuration.
-
-```jsx
-const userAgent = window.navigator.userAgent;
-const pageTitle = randomTitle();
-
-const MyPageTitle: React:FC = ({children}) =>  {
- return <Text>{pageTitle}</Text>;
-}
-```
-
-### Names in camelCase, tolerate snake_ase attributes ( eosio cpp style )
-
-```jsx
-
-const myVar = 'this a var or function name within the JS code'
-const blockmaticAccount = await rpc.get_account('blockmaticio')
-console.log(blockmaticAccount.last_code_update) // eosio snake case attributes, that's fine.
-
-```
-
-### useState with functional updates
-
-```jsx
-const [count, setCount] = React.useState(0)
-const inc = React.useCallback(() => setCount(c => c + 1), [])
-```
-
-### useReducer
-
-`useReducer` memoization works exactly as `useState` in this case. Since dispatch is guaranteed to have same reference across renders, `useCallback` is not needed, which makes code less error-prone to memoization related bugs.
-
-```jsx
-const [count, inc] = React.useReducer(c => c + 1, 0);
-```
-
-### avoid over optimization (`useCallback` and `useMemo`)
-
-Apply the AHA Programming principle and wait until the abstraction/optimization is screaming at you before applying it and you'll save yourself from incurring the costs without reaping the benefit.
-
-Specifically the cost for `useCallback` and `useMemo` are that you make the code more complex for your co-workers, you could make a mistake in the dependencies array, and you're potentially making performance worse by invoking the built-in hooks and preventing dependencies and memoized values from being garbage collected. Those are all fine costs to incur if you get the performance benefits necessary, but it's best to measure first.
-
-- https://kentcdodds.com/blog/usememo-and-usecallback
-- https://medium.com/@sdolidze/react-hooks-memoization-99a9a91c8853
-
 
 ## Contributors ✨
 
