@@ -74,6 +74,7 @@ __Functional JS, TypeScript, Hooks, Emotion, Framer, Fluid Layout and Typography
 - video: [React Composition & Specialization](https://www.youtube.com/watch?v=VaXlL8nIhHw)
 - github: [Jargon from the functional programming world in simple terms! ](https://github.com/hemanth/functional-programming-jargon)
 - github: [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
+- github: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ## React Hooks and Context 
 
