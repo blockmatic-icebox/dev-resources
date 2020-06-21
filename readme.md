@@ -233,10 +233,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## Contributing
-
-Read the [contributing guidelines](https://developers.blockmatic.io) for details.
-
 ## Blockmatic
 
 Blockmatic is building a robust ecosystem of people and tools for the development of blockchain applications.
