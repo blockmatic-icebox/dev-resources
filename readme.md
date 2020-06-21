@@ -17,7 +17,7 @@
 
 # Modern React Stack
 
-A curated collection of tutorials, talks, packages guidelines and tools for building React applications.
+A curated collection of tutorials, talks, packages guidelines and tools for building React applications.   
 This collection is the result of many years of frontend experience with React and other technologies. 
 
 __Functional JS, TypeScript, Hooks, Emotion, Framer, Fluid Layout and Typography.__
