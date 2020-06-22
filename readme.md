@@ -35,6 +35,11 @@ __Functional JS, TypeScript, Hooks, Emotion, Framer, Fluid Layout and Typography
 - github: [Advanced React Patterns v2](https://github.com/kentcdodds/advanced-react-patterns-v2)
 - website: [Art of debugging with Chrome DevTools](https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4)
 
+## Architecture
+
+We recommend following React's cannonical approach.   
+Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for a deeper explanation.  
+
 ## Layout & CSS
 
 - video: [CSS Grid Changes EVERYTHING ](https://www.youtube.com/watch?v=7kVeCqQCxlk)
