@@ -36,7 +36,7 @@ __Functional JS, TypeScript, Hooks, Emotion, Framer, Fluid Layout and Typography
 
 ## Architecture
 
-We recommend following React's cannonical approach.   
+We recommend following React's canonical approach.   
 Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for a deeper explanation.  
 
 ## Layout & CSS
