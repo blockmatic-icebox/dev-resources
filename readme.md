@@ -155,7 +155,7 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 
 ## EOSIO 
 
-- github: [React EOSIO Hooks](https://github.com/blockmatic/eosio-hooks)
+- github: [EOSIO Hooks](https://github.com/blockmatic/eosio-hooks)
 
 ## GraphQL
 
@@ -218,6 +218,12 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 
 - video: [What's New with React Dev Tools 4](https://youtu.be/QFKZmBMgvus?t=468)
 - website: [React Devtools Interactive Tutorial](https://react-devtools-tutorial.now.sh/)
+
+## Libraries
+
+- [react-use](https://github.com/streamich/react-use) - React hooks swissknife.
+- [the-platform](https://github.com/jaredpalmer/the-platform) - Web API's turned into React Hooks and Suspense-friendly React components.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation.
 
 ## Contributors ✨
 
