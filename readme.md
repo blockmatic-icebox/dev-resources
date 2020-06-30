@@ -81,7 +81,7 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - github: [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 - github: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
-## React Hooks and Context 
+## React Hooks and Context
 
 - github: [Hooks Architecture - A flexible and idiomatic architecture](https://github.com/blockmatic/hooks-architecture)
 - video: [Requisite React: Learn how to use React Hooks, Suspense & JSX - Kent C. Dodds](https://www.youtube.com/watch?v=tO8qHlr6Wqg)
@@ -89,6 +89,7 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - video: [React.js Hooks Crash Course](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
 - video: [React Hooks by Nicolas Marcora - August 2019 ](https://www.youtube.com/watch?v=ymMeu3foD_0)
 - website: [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
+- github: [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - video: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
 - podcasts: [Realigning Your Model of React After Hooks - With Dan Abramov](https://kentcdodds.com/chats-with-kent-podcast/seasons/01/episodes/realigning-your-model-of-react-after-hooks-with-dan-abramov)
 - article: [When to useMemo and useCallback - Kent C. Dodds](https://kentcdodds.com/blog/usememo-and-usecallback)
@@ -109,18 +110,12 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - website: [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - video: [useCallback Hook and React.memo to minimize re-renders](https://www.youtube.com/watch?v=3Yyx9rqokN8)
 - article: [When to useLayoutEffect Instead of useEffect - Dave Ceddia](https://daveceddia.com/useeffect-vs-uselayouteffect/)
-- website: [Use Hooks](https://usehooks.com/)
 - video: [React Custom Hooks](https://www.youtube.com/watch?v=G3qVfQ5l-Cg)
 - video: [React Hooks: What will happen to the Container/Presenter Pattern?](https://www.youtube.com/watch?v=l6GTpKLWllQ)
 - article: [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/)
-- github: [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-- article: [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
 - article: [The State Reducer Pattern](https://kentcdodds.com/blog/the-state-reducer-pattern)
 - video: [React Hooks useContext Tutorial (Storing a User)](https://www.youtube.com/watch?v=lhMKvyLRWo0)
 - video: [Explore the useMemo, useCallback, and useRef Hooks in React](https://www.youtube.com/watch?v=IivieWL_g4s)
-- website: [react-hooks.org](https://react-hooks.org/)
-- website: [usehooks.com](https://usehooks.com)
-- github: [Collection of essential React Hooks. Port of libreact](https://github.com/streamich/react-use)
 - article: [State Management with React Hooks — No Redux or Context API](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
 
 ## Translations / Internationalization (i18n) 
@@ -159,7 +154,7 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 
 ## GraphQL
 
-- github: [React Apollo Hooks](https://github.com/trojanowski/react-apollo-hooks)
+- github: [React Apollo Hooks](https://www.apollographql.com/docs/react/api/react-apollo/)
 - github: [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
 
 ## React Native & Expo
@@ -209,7 +204,6 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - video: [Yarn Workspaces Tutorial](https://www.youtube.com/watch?v=G8KXFWftCg0)
 - video: [Better code sharing through monorepos?](https://www.youtube.com/watch?v=0_qhdOeMuhk)
 - video: [How to setup a Yarn workspace with Typescript](https://youtu.be/EoqzOEZIzhg)
-- github: [React DevTools](https://github.com/facebook/react-devtools)
 - github: [Awesome React Components](https://github.com/brillout/awesome-react-components)
 - website: [Flexbox.help](https://flexbox.help/)
 - website: [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
@@ -218,6 +212,7 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 
 - video: [What's New with React Dev Tools 4](https://youtu.be/QFKZmBMgvus?t=468)
 - website: [React Devtools Interactive Tutorial](https://react-devtools-tutorial.now.sh/)
+- github: [React DevTools](https://github.com/facebook/react-devtools)
 
 ## Libraries
 
