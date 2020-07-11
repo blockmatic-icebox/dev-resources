@@ -80,6 +80,7 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - github: [Jargon from the functional programming world in simple terms! ](https://github.com/hemanth/functional-programming-jargon)
 - github: [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 - github: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- website: [TypeScript Advanced Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
 
 ## React Hooks and Context
 
