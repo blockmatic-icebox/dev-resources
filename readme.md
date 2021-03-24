@@ -110,6 +110,7 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 
 - video: [Working with Framer Motion](https://www.youtube.com/watch?v=fY1pUeFqTsE)
 - github: [React Motion demos](https://github.com/chenglou/react-motion/wiki/Gallery-of-third-party-React-Motion-demos)
+- video: [Moti - Uuniversal animation package for React Native](https://www.youtube.com/watch?v=ynSfSf9w99M)
 - video: [The State of Animation in React](https://www.youtube.com/watch?v=1tavDv5hXpo)
 - website: [Framer Motion](https://www.framer.com/motion)
 - video: [Snap.SVG Animator](https://www.youtube.com/watch?v=waTuhjBSJrs)
