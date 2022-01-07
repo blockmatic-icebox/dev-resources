@@ -2,7 +2,7 @@
 
 A curated collection of tutorials, talks, packages, guidelines and tools for building React applications.   
 
-__Functional JS, TypeScript, Hooks, Emotion, Framer, Fluid Layout and Typography.__
+__Functional JS, TypeScript, GraphQL, NextJS, Zustand, Hooks, Emotion, Framer, Fluid Layout and Typography.__
 
 ## Must Know / Watch
 
@@ -64,6 +64,18 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - github: [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 - github: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - website: [TypeScript Advanced Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
+
+## React Web Frameworks
+
+- website: [NextJS - Production grade React applications that scale](https://nextjs.org/)
+- video: [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI)
+- video: [How Next.js and Gatsby work and their differences](https://www.youtube.com/watch?v=xC4Yq_mXvPM)
+
+## State Management
+
+- github: [Zustand Store](https://github.com/pmndrs/zustand) 
+- github: [Simple Zustand Devtools](https://github.com/beerose/simple-zustand-devtools)
+- github: [Zustand Persist](https://github.com/roadmanfong/zustand-persist)
 
 ## React Hooks and Context
 
@@ -133,11 +145,6 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - github: [Awesome Emotion](https://github.com/emotion-js/awesome-emotion)
 - article: [What are Design Tokens](https://css-tricks.com/what-are-design-tokens/)
 
-## EOSIO 
-
-- github: [EOSIO Hooks](https://github.com/blockmatic/eosio-hooks)
-- website: [ChainGraph - GraphQL framework for high performance blockchain applications](https://chaingraph.io)
-
 ## GraphQL
 
 - github: [React Apollo Hooks](https://www.apollographql.com/docs/react/api/react-apollo/)
@@ -156,12 +163,26 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - github: [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
 - video: [Why React Native Gesture Handler & Reanimated](https://www.youtube.com/watch?v=aoENL4gF9rE)
 
+## EOSIO 
+
+- github: [EOSIO Hooks](https://github.com/blockmatic/eosio-hooks)
+- website: [ChainGraph - GraphQL framework for EOSIO](https://chaingraph.io)
+
+## Ethereum EVM 
+
+- github:  [useDapp](https://github.com/EthWorks/useDApp)
+- github: [wagmi hooks](https://github.com/tmm/wagmi)
+- website: [TheGraph](https://thegraph.com/)
+- website: [ether.js](https://docs.ethers.io/v5/single-page/)
+- github: [TypeChain](https://github.com/dethcrypto/TypeChain)
+- github: [Web3-React](https://github.com/NoahZinsmeister/web3-react)
+- github: [Web3 modal](https://github.com/Web3Modal/web3modal)
+
 ### Debugging
 
 - website: [Flipper](https://fbflipper.com/)
 - github: [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
 - github: [Reactotron](https://github.com/infinitered/reactotron)
-
 
 ### Continuous Integration & Delivery
 
@@ -175,13 +196,6 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - video: [Accessibility with React Native Apps in a Blind World](https://www.youtube.com/watch?v=TFKPJKAbvbk)
 - website: [Android's Overlay Attacks](https://labs.f-secure.com/blog/how-are-we-doing-with-androids-overlay-attacks-in-2020/) - Vulnerability
 - website: [Cloak and Dagger](https://cloak-and-dagger.org/) - Vulnerability
-
-## Gatsby
-
-- video: [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI)
-- video: [How Next.js and Gatsby work and their differences](https://www.youtube.com/watch?v=xC4Yq_mXvPM)
-- github: [Blockmatic's Gatsby Starter](https://github.com/blockmatic/gatsby-starter)
-- video: [Composing and styling Gatsby themes](https://www.youtube.com/watch?v=6Z4p-qjnKCQ)
 
 ## Tools
 
