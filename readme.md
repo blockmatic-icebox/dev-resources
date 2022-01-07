@@ -76,6 +76,7 @@ Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for 
 - github: [Zustand Store](https://github.com/pmndrs/zustand) 
 - github: [Simple Zustand Devtools](https://github.com/beerose/simple-zustand-devtools)
 - github: [Zustand Persist](https://github.com/roadmanfong/zustand-persist)
+- video: [Code Review: Zustand (small & fast state-management for React)](https://www.youtube.com/watch?v=1-GqEwFlG-E)
 
 ## React Hooks and Context
 
