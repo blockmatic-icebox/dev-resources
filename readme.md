@@ -34,7 +34,7 @@ __Functional JS, TypeScript, GraphQL, Remix, Zustand, Stitches, Framer, Fluid La
 
 ## Functional JavaScript and Web Fundamentals  
 
-These are fundamental concepts and knowledge on how the browser and javascript work. You need learn this in order to be able to develop javascript application in a professional way.
+These are fundamental concepts and knowledge on how the browser and javascript work. You need learn this in order to be able to develop javascript applications in a professional way.
 
 - 🎬  [How does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc) 
 - 🎬  [Declarative programming](https://www.youtube.com/watch?v=yGh0bjzj4IQ) 
@@ -47,7 +47,7 @@ These are fundamental concepts and knowledge on how the browser and javascript w
 
 ## TypeScript
 
-TypeScript allows you to strongly type your javascript functions to catch errors a build time and develop with confidence type error are going to get to production. The developer experience is greatly improved though VS Code intellisense. 
+TypeScript allows you to strongly type your javascript functions to catch errors a build time and develop with confidence.  The type errors are not going to get to production. The developer experience is greatly improved though VS Code intellisense. 
 
 - 📝 [TypeScript for JavaScript Programmerst](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - 📝 [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
