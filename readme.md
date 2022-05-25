@@ -4,7 +4,7 @@
 
 A curated collection of tutorials, talks, guidelines and tools for building performant React and React Native applications.   
 
-__Functional JS, TypeScript, GraphQL, Remix, Zustand, Stitches, Framer, Fluid Layout with CSS Grid and Flexbox.__
+__Functional JS, TypeScript, GraphQL, Remix, Zustand, Stitches, Framer, Fluid Layout with Grid and Flex.__
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
