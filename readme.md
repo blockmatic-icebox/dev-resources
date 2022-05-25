@@ -1,225 +1,237 @@
+
+
 # Modern React Stack
 
-A curated collection of tutorials, talks, packages, guidelines and tools for building React applications.   
+A curated collection of tutorials, talks, guidelines and tools for building performant React and React Native applications.   
 
-__Functional JS, TypeScript, GraphQL, NextJS, Zustand, Hooks, Emotion, Framer, Fluid Layout and Typography.__
+__Functional JS, TypeScript, GraphQL, Remix, Zustand, Stitches, Framer, Fluid Layout with CSS Grid and Flexbox.__
 
-## Must Know / Watch
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
 
-- video: [Everything You Know About Web Design Just Changed](https://www.youtube.com/watch?v=jBwBACbRuGY)
-- video: [Must know JavaScript features](https://www.youtube.com/watch?v=W4brAobC2Hc&list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm) 
-- video: [Declarative programming](https://www.youtube.com/watch?v=yGh0bjzj4IQ) 
-- video: [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) 
-- video: [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) 
-- video: [How does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc) 
-- video: [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
-- article: [AHA Programming: Avoid Hasty Abstractions](https://kentcdodds.com/blog/aha-programming)
-- github: [Advanced React Patterns v2](https://github.com/kentcdodds/advanced-react-patterns-v2)
-- website: [Art of debugging with Chrome DevTools](https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4)
+- [Functional JavaScript and Web Fundamentals](#functional-javascript-and-web-fundamentals)
+- [TypeScript](#typescript)
+- [Remix Framework](#remix-framework)
+- [State Management](#state-management)
+- [Layout & CSS](#layout--css)
+- [Stitches, Design System and CSS-in-JS](#stitches-design-system-and-css-in-js)
+- [Typography and Iconography](#typography-and-iconography)
+- [Debugging](#debugging)
+- [Performance](#performance)
+- [Animation](#animation)
+- [GraphQL](#graphql)
+- [Translations / Internationalization (i18n)](#translations--internationalization-i18n)
+- [React Hooks and Context](#react-hooks-and-context)
+- [React Native & Expo](#react-native--expo)
+- [Ethereum EVM](#ethereum-evm)
+- [Continuous Integration & Delivery](#continuous-integration--delivery)
+- [React Native Accesibility](#react-native-accesibility)
+- [Contributors ✨](#contributors-)
+- [Blockmatic](#blockmatic)
 
-## Architecture
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-We recommend following React's canonical approach.   
-Read [Hooks Architecture](https://github.com/blockmatic/hooks-architecture) for a deeper explanation.  
+## Functional JavaScript and Web Fundamentals  
 
-## Layout & CSS
+These are fundamental concepts and knowledge on how the browser and javascript work. You need learn this in order to be able to develop javascript application in a professional way.
 
-- video: [CSS Grid Changes EVERYTHING ](https://www.youtube.com/watch?v=7kVeCqQCxlk)
-- video: [CSS Grid Tutorial | Responsive Crash Course](https://www.youtube.com/watch?v=SPFDLHNm5KQ)
-- website: [Learn CSS Grid](https://learncssgrid.com/)
-- video: [Designing for A Viewport](https://www.youtube.com/watch?v=QY3lTBZnJmE)
-- video: [Introduction to Viewport Units](https://www.youtube.com/watch?v=_sgF8I-Q1Gs)
-- video: [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
-- video: [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
-- video: [Flexbox vs. CSS Grid?](https://www.youtube.com/watch?v=hs3piaN4b5I)
-- video: [CSS Grid Tutorial](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
-- video: [Using Flexbox + CSS Grid Together](https://www.youtube.com/watch?v=dQHtT47eH0M)
-- collection: [All The Videos in Layout Land](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70&index=1)
-- article: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- article: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- github: [Awesome CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid)
-- article: [Beyond Media Queries](https://theweb.rocks/beyondmediaqueries/)
-- article: [Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/)
+- 🎬  [How does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc) 
+- 🎬  [Declarative programming](https://www.youtube.com/watch?v=yGh0bjzj4IQ) 
+- 🎬  [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+- 📝 [AHA Programming: Avoid Hasty Abstractions](https://kentcdodds.com/blog/aha-programming)
+- 🎬  [Playlist: Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+- 🎬  [React Composition & Specialization](https://www.youtube.com/watch?v=VaXlL8nIhHw)
+- 🎬  [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) 
+- 📦 [Jargon from the functional programming world in simple terms! ](https://github.com/hemanth/functional-programming-jargon)
 
-## Typography
+## TypeScript
 
-- video: [Typography Basics Explained](https://www.youtube.com/watch?v=rF0zvSrF438)
-- video: [Advanced Fluid Typography (and more) by Mike Riethmuller](https://www.youtube.com/watch?v=mAvQUIKtW_Y)
-- article: [Precise Control Over Responsive Typography](https://www.madebymike.com.au/writing/precise-control-responsive-typography/)
-- article: [Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
-- article: [More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography/)
-- tool: [Type Scale](https://type-scale.com/)
-- tool: [Modular Scale](https://www.modularscale.com)
-- video: [Simple Explanation Of rem & em CSS Units](https://www.youtube.com/watch?v=H4UtKu11yXg)
+TypeScript allows you to strongly type your javascript functions to catch errors a build time and develop with confidence type error are going to get to production. The developer experience is greatly improved though VS Code intellisense. 
 
-## Functional JavaScript with TypeScript 
+- 📝 [TypeScript for JavaScript Programmerst](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- 📝 [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
+- 📦 [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- 📦 [TypeFest TypeScript Collection](https://github.com/sindresorhus/type-fest)
 
-- video: [dotJS 2018 - Anders Hejlsberg - TypeScript: Static types for JavaScript](https://www.youtube.com/watch?v=ET4kT88JRXs)
-- video: [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-- github: [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- github: [Functional programming in TypeScript](https://gcanti.github.io/fp-ts/)
-- article: [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
-- video: [React Composition & Specialization](https://www.youtube.com/watch?v=VaXlL8nIhHw)
-- github: [Jargon from the functional programming world in simple terms! ](https://github.com/hemanth/functional-programming-jargon)
-- github: [A collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
-- github: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- website: [TypeScript Advanced Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
+## Remix Framework
 
-## React Web Frameworks
+Server side rendering rendering framework for building perfomant react application following web standards.
 
-- website: [NextJS - Production grade React applications that scale](https://nextjs.org/)
-- video: [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI)
-- video: [How Next.js and Gatsby work and their differences](https://www.youtube.com/watch?v=xC4Yq_mXvPM)
+- 🖥 [Remix Technical Explanation](https://remix.run/docs/en/v1/pages/technical-explanation)
+- 🖥 [Remix Conventions](https://remix.run/docs/en/v1/api/conventions)
+- 🎬  [Remix Crash Course | Full Stack React](https://www.youtube.com/watch?v=d_BhzHVV4aQ)
+- 🎬  [Build a Project Management App with Remix](https://www.youtube.com/watch?v=QpP3daA2na4)
 
 ## State Management
 
-- github: [Zustand Store](https://github.com/pmndrs/zustand) 
-- github: [Simple Zustand Devtools](https://github.com/beerose/simple-zustand-devtools)
-- github: [Zustand Persist](https://github.com/roadmanfong/zustand-persist)
-- video: [Code Review: Zustand (small & fast state-management for React)](https://www.youtube.com/watch?v=1-GqEwFlG-E)
+While most state in Remix apps is managed on the backend and cookies, you will find that some global state for layout, ui flags and other application configuration will be required too, Zustand is the best tool for the job. 
 
-## React Hooks and Context
+- 📦 [Zustand Store](https://github.com/pmndrs/zustand) 
+- 📦 [Simple Zustand Devtools](https://github.com/beerose/simple-zustand-devtools)
+- 🎬  [Code Review: Zustand (small & fast state-management for React)](https://www.youtube.com/watch?v=1-GqEwFlG-E)
 
-- github: [Hooks Architecture - A flexible and idiomatic architecture](https://github.com/blockmatic/hooks-architecture)
-- video: [Requisite React: Learn how to use React Hooks, Suspense & JSX - Kent C. Dodds](https://www.youtube.com/watch?v=tO8qHlr6Wqg)
-- video: [Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
-- video: [React.js Hooks Crash Course](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
-- video: [React Hooks by Nicolas Marcora - August 2019 ](https://www.youtube.com/watch?v=ymMeu3foD_0)
-- website: [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
-- github: [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-- video: [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
-- podcasts: [Realigning Your Model of React After Hooks - With Dan Abramov](https://kentcdodds.com/chats-with-kent-podcast/seasons/01/episodes/realigning-your-model-of-react-after-hooks-with-dan-abramov)
-- article: [When to useMemo and useCallback - Kent C. Dodds](https://kentcdodds.com/blog/usememo-and-usecallback)
-- video: [React Hook Pitfalls - Kent C. Dodds - React Rally 2019](https://www.youtube.com/watch?v=VIRcX2X7EUk)
-- video: [How React Hooks Change The Way We Build Forms](https://www.youtube.com/watch?v=8yo44xN7-nQ)
-- video: [React Hooks Tutorial (Custom Hooks) | Form Validation made easy](https://www.youtube.com/watch?v=SXIfnNvYrZE)
-- article: [The Iceberg of React Hooks - Sandro Dolidze](https://medium.com/@sdolidze/the-iceberg-of-react-hooks-af0b588f43fb)
-- article: [React Hooks: Memoization - Sandro Dolidze](https://medium.com/@sdolidze/react-hooks-memoization-99a9a91c8853)
-- video: [React Context & Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
-- video: [Let's hook up with React](https://www.youtube.com/watch?v=h9qHKDlsnP0) 
-- video: [Fun with React Hooks - Michael Jackson and Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw)
-- video: [useContext() + useReducer() = Magic?](https://www.youtube.com/watch?v=R_7XRX7nLsw)
-- video: [React Hooks useContext](https://www.youtube.com/watch?v=xWXxkFzgnFM)
-- article : [React Hooks in TypeScript](https://fettblog.eu/typescript-react/hooks/)
-- article : [TypeScript and React Hooks](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
-- video: [The useReducer Hook - Dave Ceddia](https://www.youtube.com/watch?v=sYDFCuZHrqw)
-- video: [Why I Love useReducer](https://www.youtube.com/watch?v=o-nCM1857AQ)
-- website: [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
-- video: [useCallback Hook and React.memo to minimize re-renders](https://www.youtube.com/watch?v=3Yyx9rqokN8)
-- article: [When to useLayoutEffect Instead of useEffect - Dave Ceddia](https://daveceddia.com/useeffect-vs-uselayouteffect/)
-- video: [React Custom Hooks](https://www.youtube.com/watch?v=G3qVfQ5l-Cg)
-- video: [React Hooks: What will happen to the Container/Presenter Pattern?](https://www.youtube.com/watch?v=l6GTpKLWllQ)
-- article: [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/)
-- article: [The State Reducer Pattern](https://kentcdodds.com/blog/the-state-reducer-pattern)
-- video: [React Hooks useContext Tutorial (Storing a User)](https://www.youtube.com/watch?v=lhMKvyLRWo0)
-- video: [Explore the useMemo, useCallback, and useRef Hooks in React](https://www.youtube.com/watch?v=IivieWL_g4s)
-- article: [State Management with React Hooks — No Redux or Context API](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
+## Layout & CSS
 
-## Translations / Internationalization (i18n) 
+The web has evolved and the modern css apis make it a lot easier to but responsive and fluid layouts. There's no longer need for column based grid systems, flexbox and css grid provide with everything you need for layout.
 
-- github: [usetranslation-hook](https://react.i18next.com/latest/usetranslation-hook)
+- 🖥 [Introduction to CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+- 🎬  [Everything You Know About Web Design Just Changed](https://www.youtube.com/watch?v=jBwBACbRuGY)
+- 🎬  [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+- 🎬  [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
+- 🎬  [Flexbox vs. CSS Grid?](https://www.youtube.com/watch?v=hs3piaN4b5I)
+- 🎬  [Using Flexbox + CSS Grid Together](https://www.youtube.com/watch?v=dQHtT47eH0M)
+- 🎬  [CSS Grid Tutorial | Responsive Crash Course](https://www.youtube.com/watch?v=SPFDLHNm5KQ)
+- 📝 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- 📝 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- 🖥 [Flexbox.help Generator](https://flexbox.help/)
+- 🖥 [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
+- 📦 [Awesome CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid)
+- 🎬  [Designing for A Viewport](https://www.youtube.com/watch?v=QY3lTBZnJmE)
+- 🎬  [Introduction to Viewport Units](https://www.youtube.com/watch?v=_sgF8I-Q1Gs)
+- 📝 [Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/)
+- 🎬  [Layout Land Channel](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70&index=1)
+- 📝 [Beyond Media Queries](https://theweb.rocks/beyondmediaqueries/)
+- 🖥 [Learn CSS Grid](https://learncssgrid.com/)
+
+## Stitches, Design System and CSS-in-JS
+
+Stitches is the best state-of-art css-in-js framework, in combination with Toolabs DSM it provides the performance and developer experience for design system driven development.
+
+- 🎬  [What are Design Tokens](https://www.youtube.com/watch?v=wtTstdiBuUk)
+- 🎬  [The Future of the Front-End – Stitches CSS-in-JS Demo](https://www.youtube.com/watch?v=Gw28VgyKGkw)
+- 🎬  [Pedro Duarte - Modulz, Radix, Stitches](https://www.youtube.com/watch?v=3zn3Lyys9Zk)
+- 🎬  [Let's Build a Design System: Spacing Methods](https://www.youtube.com/watch?v=aXokV5In7YA)
+- 🎬  [Design System Naming Conventions - A Practical Guide](https://www.youtube.com/watch?v=w2LFfOtPsoc)
+- 🎬  [Guillermo Rauch on Merging Design and Developement](https://www.youtube.com/watch?v=3hccXiXI0u8)
+- 🖥  [Toolabs Design System Manager](https://toolabs.com/)
+- 🖥  [Stitches - CSS-in-JS with near-zero runtime](https://stitches.dev/)
+
+## Typography and Iconography
+
+- 🎬  [Typography Basics Explained](https://www.youtube.com/watch?v=rF0zvSrF438)
+- 🎬  [Advanced Fluid Typography (and more) by Mike Riethmuller](https://www.youtube.com/watch?v=mAvQUIKtW_Y)
+- 📝 [Precise Control Over Responsive Typography](https://www.madebymike.com.au/writing/precise-control-responsive-typography/)
+- 📝 [Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
+- 📝 [More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography/)
+- tool: [Type Scale](https://type-scale.com/)
+- tool: [Modular Scale](https://www.modularscale.com)
+- 🎬  [Simple Explanation of rem & em CSS Units](https://www.youtube.com/watch?v=H4UtKu11yXg)
+- 📦 [React SVG Icons](https://github.com/react-icons/react-icons)
+
+## Debugging
+
+React and react native debugging tools.
+
+- 📦 [Devtools Cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet)
+- 🔧 [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- 🔧 [Pesticide Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi)
+- 🎬  [What's New with React Dev Tools 4](https://youtu.be/QFKZmBMgvus?t=468)
+- 🖥 [React Devtools Interactive Tutorial](https://react-devtools-tutorial.now.sh/)
+- 🖥 [Flipper](https://fbflipper.com/)
+- 📦 [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+- 📦 [Reactotron](https://github.com/infinitered/reactotron)
+
+## Performance
+
+Optimizing for quality of user experience is key to the long-term success of any site on the web.
+
+- 🖥  [Web Vitals](https://web.dev/learn-web-vitals/)
+- 🎬  [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc)
+- 🎬  [Web Performance Tips and Tricks from the Trenches](https://www.youtube.com/watch?v=YJGCZCaIZkQ)
 
 ## Animation
 
-- video: [Working with Framer Motion](https://www.youtube.com/watch?v=fY1pUeFqTsE)
-- github: [React Motion demos](https://github.com/chenglou/react-motion/wiki/Gallery-of-third-party-React-Motion-demos)
-- video: [Moti - Uuniversal animation package for React Native](https://www.youtube.com/watch?v=ynSfSf9w99M)
-- video: [The State of Animation in React](https://www.youtube.com/watch?v=1tavDv5hXpo)
-- website: [Framer Motion](https://www.framer.com/motion)
-- video: [Snap.SVG Animator](https://www.youtube.com/watch?v=waTuhjBSJrs)
-- github: [React CSS Transition Replace](https://github.com/marnusw/react-css-transition-replace)
-- github: [React Transition Group](https://github.com/reactjs/react-transition-group/)
-- article: [Canvas vs. SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/)
-- github: [React GSAP (GreenSock Animation Platform)](https://github.com/bitworking/react-gsap)
-- video: [Declarative future of gestures and animations in React Native](https://www.youtube.com/watch?v=kdq4z2708VM)
-- github: [Lottie animation view for react ](https://github.com/chenqingspring/react-lottie)
-- github: [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit)
-- video: [Dead simple animation with React Pose](https://www.youtube.com/watch?v=BSbVB14riQI)
-
-## Styling
-
-- website: [Emotion library](https://emotion.sh/docs/introduction)
-- website: [PolishedJS - A lightweight toolset for writing styles in JavaScript](https://polished.js.org/)
-- website: [Styleguide Driven Development](https://mitchgavan.com/styleguide-driven-development/)
-- video: [Artistic CSS](https://www.youtube.com/watch?v=aQBYAkaABkU)
-- github: [React SVG Icons](https://github.com/react-icons/react-icons)
-- github: [Awesome Emotion](https://github.com/emotion-js/awesome-emotion)
-- article: [What are Design Tokens](https://css-tricks.com/what-are-design-tokens/)
+- 🎬  [Working with Framer Motion](https://www.youtube.com/watch?v=fY1pUeFqTsE)
+- 🖥 [Framer Motion](https://www.framer.com/motion)
+- 📦 [Framer Motion demos](https://github.com/chenglou/react-motion/wiki/Gallery-of-third-party-React-Motion-demos)
+- 🎬  [Moti - Uuniversal animation package for React Native](https://www.youtube.com/watch?v=ynSfSf9w99M)
+- 🎬  [Declarative future of gestures and animations in React Native](https://www.youtube.com/watch?v=kdq4z2708VM)
+- 📝 [Canvas vs. SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/)
+- 📦 [Lottie animation view for react ](https://github.com/chenqingspring/react-lottie)
+- 📦 [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit)
 
 ## GraphQL
 
-- github: [React Apollo Hooks](https://www.apollographql.com/docs/react/api/react-apollo/)
-- github: [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
+- 📦 [React Apollo Hooks](https://www.apollographql.com/docs/react/api/react-apollo/)
+- 📦 [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
+
+## Translations / Internationalization (i18n) 
+
+- 📦 [React i18next](https://react.i18next.com)
+- 📦 [Remix i18next](https://github.com/sergiodxa/remix-i18next)
+
+## React Hooks and Context
+
+- 🎬  [Requisite React: Learn how to use React Hooks, Suspense & JSX - Kent C. Dodds](https://www.youtube.com/watch?v=tO8qHlr6Wqg)
+- 🎬  [Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
+- 🎬  [React.js Hooks Crash Course](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
+- 🎬  [React Hooks by Nicolas Marcora - August 2019 ](https://www.youtube.com/watch?v=ymMeu3foD_0)
+- 🖥 [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
+- 📦 [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+- 🎬  [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) 
+- 🎧 [Realigning Your Model of React After Hooks - With Dan Abramov](https://kentcdodds.com/chats-with-kent-podcast/seasons/01/episodes/realigning-your-model-of-react-after-hooks-with-dan-abramov)
+- 📝 [When to useMemo and useCallback - Kent C. Dodds](https://kentcdodds.com/blog/usememo-and-usecallback)
+- 🎬  [React Hook Pitfalls - Kent C. Dodds - React Rally 2019](https://www.youtube.com/watch?v=VIRcX2X7EUk)
+- 🎬  [How React Hooks Change The Way We Build Forms](https://www.youtube.com/watch?v=8yo44xN7-nQ)
+- 🎬  [React Hooks Tutorial (Custom Hooks) | Form Validation made easy](https://www.youtube.com/watch?v=SXIfnNvYrZE)
+- 📝 [The Iceberg of React Hooks - Sandro Dolidze](https://medium.com/@sdolidze/the-iceberg-of-react-hooks-af0b588f43fb)
+- 📝 [React Hooks: Memoization - Sandro Dolidze](https://medium.com/@sdolidze/react-hooks-memoization-99a9a91c8853)
+- 🎬  [React Context & Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
+- 🎬  [Let's hook up with React](https://www.youtube.com/watch?v=h9qHKDlsnP0) 
+- 🎬  [Fun with React Hooks - Michael Jackson and Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw)
+- 🎬  [useContext() + useReducer() = Magic?](https://www.youtube.com/watch?v=R_7XRX7nLsw)
+- 🎬  [React Hooks useContext](https://www.youtube.com/watch?v=xWXxkFzgnFM)
+-  📝  [React Hooks in TypeScript](https://fettblog.eu/typescript-react/hooks/)
+-  📝  [TypeScript and React Hooks](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
+- 🎬  [The useReducer Hook - Dave Ceddia](https://www.youtube.com/watch?v=sYDFCuZHrqw)
+- 🎬  [Why I Love useReducer](https://www.youtube.com/watch?v=o-nCM1857AQ)
+- 🖥 [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
+- 🎬  [useCallback Hook and React.memo to minimize re-renders](https://www.youtube.com/watch?v=3Yyx9rqokN8)
+- 📝 [When to useLayoutEffect Instead of useEffect - Dave Ceddia](https://daveceddia.com/useeffect-vs-uselayouteffect/)
+- 🎬  [React Custom Hooks](https://www.youtube.com/watch?v=G3qVfQ5l-Cg)
+- 🎬  [React Hooks: What will happen to the Container/Presenter Pattern?](https://www.youtube.com/watch?v=l6GTpKLWllQ)
+- 📝 [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/)
+- 📝 [The State Reducer Pattern](https://kentcdodds.com/blog/the-state-reducer-pattern)
+- 🎬  [React Hooks useContext Tutorial (Storing a User)](https://www.youtube.com/watch?v=lhMKvyLRWo0)
+- 🎬  [Explore the useMemo, useCallback, and useRef Hooks in React](https://www.youtube.com/watch?v=IivieWL_g4s)
+- 📝 [State Management with React Hooks — No Redux or Context API](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
 
 ## React Native & Expo
 
-- video: [Getting Started With Expo and React Native](https://www.youtube.com/watch?v=xAjkuVuLLvo)
-- video: [React Native CLI vs Expo](https://www.youtube.com/watch?v=uHlAM4ICi1s)
-- video: [Expo CLI](https://www.youtube.com/watch?v=9rK5FdbOqpk)
-- video: [React Native CLI](https://www.youtube.com/watch?v=DYA6QMsq1fM)
-- website: [React Native Web](https://github.com/necolas/react-native-web)
-- video: [Chen Feldman - React Native - Under the Bridge | React Next 2019](https://www.youtube.com/watch?v=_IiDHmAPH28)
-- video: [Walkthrough: Expo CLI](https://www.youtube.com/watch?v=9rK5FdbOqpk)
-- website: [Awesome React Native](https://www.awesome-react-native.com)
-- github: [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
-- video: [Why React Native Gesture Handler & Reanimated](https://www.youtube.com/watch?v=aoENL4gF9rE)
-
-## EOSIO 
-
-- github: [EOSIO Hooks](https://github.com/blockmatic/eosio-hooks)
-- website: [ChainGraph - GraphQL framework for EOSIO](https://chaingraph.io)
+- 🎬  [Getting Started With Expo and React Native](https://www.youtube.com/watch?v=xAjkuVuLLvo)
+- 🎬  [React Native CLI vs Expo](https://www.youtube.com/watch?v=uHlAM4ICi1s)
+- 🎬  [Expo CLI](https://www.youtube.com/watch?v=9rK5FdbOqpk)
+- 🎬  [React Native CLI](https://www.youtube.com/watch?v=DYA6QMsq1fM)
+- 🖥 [React Native Web](https://github.com/necolas/react-native-web)
+- 🎬  [Chen Feldman - React Native - Under the Bridge | React Next 2019](https://www.youtube.com/watch?v=_IiDHmAPH28)
+- 🎬  [Walkthrough: Expo CLI](https://www.youtube.com/watch?v=9rK5FdbOqpk)
+- 🖥 [Awesome React Native](https://www.awesome-react-native.com)
+- 📦 [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
+- 🎬  [Why React Native Gesture Handler & Reanimated](https://www.youtube.com/watch?v=aoENL4gF9rE)
 
 ## Ethereum EVM 
 
-- github:  [useDapp](https://github.com/EthWorks/useDApp)
-- github: [wagmi hooks](https://github.com/tmm/wagmi)
-- website: [TheGraph](https://thegraph.com/)
-- website: [ether.js](https://docs.ethers.io/v5/single-page/)
-- github: [TypeChain](https://github.com/dethcrypto/TypeChain)
-- github: [Web3-React](https://github.com/NoahZinsmeister/web3-react)
-- github: [Web3 modal](https://github.com/Web3Modal/web3modal)
+- 📦  [useDapp](https://github.com/EthWorks/useDApp)
+- 📦 [wagmi hooks](https://github.com/tmm/wagmi)
+- 🖥 [TheGraph](https://thegraph.com/)
+- 🖥 [ether.js](https://docs.ethers.io/v5/single-page/)
+- 📦 [TypeChain](https://github.com/dethcrypto/TypeChain)
+- 📦 [Web3-React](https://github.com/NoahZinsmeister/web3-react)
+- 📦 [Web3 modal](https://github.com/Web3Modal/web3modal)
+## Continuous Integration & Delivery
 
-### Debugging
+- 🖥 [lighthouse ci](https://github.com/GoogleChrome/lighthouse-ci)
+- 🖥 [nevercode](https://nevercode.io/)
+- 🖥 [fastlane](https://fastlane.tools/)
+- 🖥 [appcenter](https://appcenter.ms/)
+- 🖥 [firebase](https://firebase.google.com/products/app-distribution/)
 
-- website: [Flipper](https://fbflipper.com/)
-- github: [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
-- github: [Reactotron](https://github.com/infinitered/reactotron)
+## React Native Accesibility
 
-### Continuous Integration & Delivery
-
-- website: [nevercode](https://nevercode.io/)
-- website: [fastlane](https://fastlane.tools/)
-- website: [appcenter](https://appcenter.ms/)
-- website: [firebase](https://firebase.google.com/products/app-distribution/)
-
-### React Native Accesibility
-
-- video: [Accessibility with React Native Apps in a Blind World](https://www.youtube.com/watch?v=TFKPJKAbvbk)
-- website: [Android's Overlay Attacks](https://labs.f-secure.com/blog/how-are-we-doing-with-androids-overlay-attacks-in-2020/) - Vulnerability
-- website: [Cloak and Dagger](https://cloak-and-dagger.org/) - Vulnerability
-
-## Tools
-
-- github: [Lerna](https://github.com/lerna/lerna)
-- video: [How to Use Lerna](https://www.youtube.com/watch?v=p6qoJ4apCjA)
-- video: [Yarn Workspaces Tutorial](https://www.youtube.com/watch?v=G8KXFWftCg0)
-- video: [Better code sharing through monorepos?](https://www.youtube.com/watch?v=0_qhdOeMuhk)
-- video: [How to setup a Yarn workspace with Typescript](https://youtu.be/EoqzOEZIzhg)
-- github: [Awesome React Components](https://github.com/brillout/awesome-react-components)
-- website: [Flexbox.help](https://flexbox.help/)
-- website: [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
-
-## Web Debugging
-
-- video: [What's New with React Dev Tools 4](https://youtu.be/QFKZmBMgvus?t=468)
-- website: [React Devtools Interactive Tutorial](https://react-devtools-tutorial.now.sh/)
-- github: [React DevTools](https://github.com/facebook/react-devtools)
-
-## Libraries
-
-- [react-use](https://github.com/streamich/react-use) - React hooks swissknife.
-- [the-platform](https://github.com/jaredpalmer/the-platform) - Web API's turned into React Hooks and Suspense-friendly React components.
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation.
+- 🎬  [Accessibility with React Native Apps in a Blind World](https://www.youtube.com/watch?v=TFKPJKAbvbk)
+- 🖥 [Android's Overlay Attacks](https://labs.f-secure.com/blog/how-are-we-doing-with-androids-overlay-attacks-in-2020/) - Vulnerability
+- 🖥 [Cloak and Dagger](https://cloak-and-dagger.org/) - Vulnerability
 
 ## Contributors ✨
 
