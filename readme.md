@@ -114,8 +114,8 @@ Stitches is the best state-of-art css-in-js framework, in combination with Toola
 - 📝 [Precise Control Over Responsive Typography](https://www.madebymike.com.au/writing/precise-control-responsive-typography/)
 - 📝 [Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
 - 📝 [More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography/)
-- tool: [Type Scale](https://type-scale.com/)
-- tool: [Modular Scale](https://www.modularscale.com)
+- 🔧  [Type Scale](https://type-scale.com/)
+- 🔧  [Modular Scale](https://www.modularscale.com)
 - 🎬  [Simple Explanation of rem & em CSS Units](https://www.youtube.com/watch?v=H4UtKu11yXg)
 - 📦 [React SVG Icons](https://github.com/react-icons/react-icons)
 
