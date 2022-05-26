@@ -27,7 +27,6 @@ __Functional JS, TypeScript, GraphQL, Remix, Zustand, Stitches, Framer, Fluid La
 - [Ethereum EVM](#ethereum-evm)
 - [Continuous Integration & Delivery](#continuous-integration--delivery)
 - [React Native Accesibility](#react-native-accesibility)
-- [Contributors ✨](#contributors-)
 - [Blockmatic](#blockmatic)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
