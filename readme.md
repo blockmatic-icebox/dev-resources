@@ -49,7 +49,7 @@ These are fundamental concepts and knowledge on how the browser and javascript w
 
 TypeScript allows you to strongly type your javascript functions to catch errors a build time and develop with confidence.  The type errors are not going to get to production. The developer experience is greatly improved though VS Code intellisense. 
 
-- 📝 [TypeScript for JavaScript Programmerst](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- 📝 [TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - 📝 [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - 📦 [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - 📦 [TypeFest TypeScript Collection](https://github.com/sindresorhus/type-fest)
@@ -232,26 +232,6 @@ Optimizing for quality of user experience is key to the long-term success of any
 - 🎬  [Accessibility with React Native Apps in a Blind World](https://www.youtube.com/watch?v=TFKPJKAbvbk)
 - 🖥 [Android's Overlay Attacks](https://labs.f-secure.com/blog/how-are-we-doing-with-androids-overlay-attacks-in-2020/) - Vulnerability
 - 🖥 [Cloak and Dagger](https://cloak-and-dagger.org/) - Vulnerability
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://gaboesquivel.com"><img src="https://avatars0.githubusercontent.com/u/391270?v=4" width="100px;" alt="Gabo Esquivel"/><br /><sub><b>Gabo Esquivel</b></sub></a><br /><a href="#ideas-gaboesquivel" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://kevinwolf.me"><img src="https://avatars2.githubusercontent.com/u/3157426?v=4" width="100px;" alt="Kevin Wolf"/><br /><sub><b>Kevin Wolf</b></sub></a><br /><a href="#ideas-kevinwolfcr" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/laubits"><img src="https://avatars3.githubusercontent.com/u/11317931?v=4" width="100px;" alt="Laura Castillo"/><br /><sub><b>Laura Castillo</b></sub></a><br /><a href="#ideas-laubits" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="http://kevinrodriguez.io/"><img src="https://avatars3.githubusercontent.com/u/6248571?v=4" width="100px;" alt="Kevin Rodríguez"/><br /><sub><b>Kevin Rodríguez</b></sub></a><br /><a href="#ideas-kevinrodriguez-io" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/guayom"><img src="https://avatars3.githubusercontent.com/u/3279037?v=4" width="100px;" alt="Guayo Mena"/><br /><sub><b>Guayo Mena</b></sub></a><br /><a href="#ideas-guayom" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## Blockmatic
 
