@@ -75,6 +75,7 @@ While most state in Remix apps is managed on the backend and cookies, you will f
 The web has evolved and the modern css apis make it a lot easier to but responsive and fluid layouts. There's no longer need for column based grid systems, flexbox and css grid provide with everything you need for layout.
 
 - 🖥 [Introduction to CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+- 🖥 [A Collection of Layout Patterns built using Modern CSS APIs](https://web.dev/patterns/layout)
 - 🎬  [Everything You Know About Web Design Just Changed](https://www.youtube.com/watch?v=jBwBACbRuGY)
 - 🎬  [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 - 🎬  [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
