@@ -4,7 +4,7 @@
 
 A curated collection of tutorials, talks, guidelines and tools for building performant applications.   
 
-__Blockchain, GraphQL, Functional JS, TypeScript, NextJS, Zustand, Stitches, Framer, Fluid Layout with Grid and Flex.__
+__Blockchain, GraphQL, Functional JS, TypeScript, NextJS, Zustand, Stitches, Framer, Grid and Flex.__
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
