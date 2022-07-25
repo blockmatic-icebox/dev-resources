@@ -1,10 +1,10 @@
 
 
-# Modern React Stack
+# PowerStack Resources
 
-A curated collection of tutorials, talks, guidelines and tools for building performant React and React Native applications.   
+A curated collection of tutorials, talks, guidelines and tools for performant applications.   
 
-__Functional JS, TypeScript, GraphQL, Remix, Zustand, Stitches, Framer, Fluid Layout with Grid and Flex.__
+__Blockchain, GraphQL, Functional JS, TypeScript, NextJS, Zustand, Stitches, Framer, Fluid Layout with Grid and Flex.__
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -31,6 +31,21 @@ __Functional JS, TypeScript, GraphQL, Remix, Zustand, Stitches, Framer, Fluid La
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Blockchain Fundamentals 
+
+... encryption, tokens, wallets, defi. 
+
+## Etherem ( EVM )
+
+- 🖥 [Ether.js](https://docs.ethers.io/v5/single-page/)
+## Solana
+
+- 🖥 [SolDev](https://soldev.app/)
+
+## EOSIO
+
+- 🖥 [EOSIO Core](https://github.com/greymass/eosio-core)
+
 ## Functional JavaScript and Web Fundamentals  
 
 These are fundamental concepts and knowledge on how the browser and javascript work. You need learn this in order to be able to develop javascript applications in a professional way.
@@ -53,16 +68,13 @@ TypeScript allows you to strongly type your javascript functions to catch errors
 - 📦 [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - 📦 [TypeFest TypeScript Collection](https://github.com/sindresorhus/type-fest)
 
-## Remix Framework
+## NextJS Framework
 
 Server side rendering rendering framework for building perfomant react application following web standards.
 
-- 🖥 [Remix Technical Explanation](https://remix.run/docs/en/v1/pages/technical-explanation)
-- 🖥 [Remix Conventions](https://remix.run/docs/en/v1/api/conventions)
-- 🎬  [Remix Crash Course | Full Stack React](https://www.youtube.com/watch?v=d_BhzHVV4aQ)
-- 🎬  [Build a Project Management App with Remix](https://www.youtube.com/watch?v=QpP3daA2na4)
+- 🖥 [NextJS](https://nextjs.org/)
 
-## State Management
+## Frontend State Management
 
 While most state in Remix apps is managed on the backend and cookies, you will find that some global state for layout, ui flags and other application configuration will be required too, Zustand is the best tool for the job. 
 
@@ -119,7 +131,7 @@ Stitches is the best state-of-art css-in-js framework, in combination with Toola
 - 🎬  [Simple Explanation of rem & em CSS Units](https://www.youtube.com/watch?v=H4UtKu11yXg)
 - 📦 [React SVG Icons](https://github.com/react-icons/react-icons)
 
-## Debugging
+## React Debugging
 
 React and react native debugging tools.
 
@@ -132,7 +144,7 @@ React and react native debugging tools.
 - 📦 [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
 - 📦 [Reactotron](https://github.com/infinitered/reactotron)
 
-## Performance
+## Web Performance
 
 Optimizing for quality of user experience is key to the long-term success of any site on the web.
 
@@ -140,7 +152,7 @@ Optimizing for quality of user experience is key to the long-term success of any
 - 🎬  [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc)
 - 🎬  [Web Performance Tips and Tricks from the Trenches](https://www.youtube.com/watch?v=YJGCZCaIZkQ)
 
-## Animation
+## React Animation
 
 - 🎬  [Working with Framer Motion](https://www.youtube.com/watch?v=fY1pUeFqTsE)
 - 🖥 [Framer Motion](https://www.framer.com/motion)
@@ -153,6 +165,7 @@ Optimizing for quality of user experience is key to the long-term success of any
 
 ## GraphQL
 
+- 🖥 [TheGraph](https://thegraph.com/)
 - 📦 [React Apollo Hooks](https://www.apollographql.com/docs/react/api/react-apollo/)
 - 📦 [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
 
@@ -210,15 +223,6 @@ Optimizing for quality of user experience is key to the long-term success of any
 - 📦 [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
 - 🎬  [Why React Native Gesture Handler & Reanimated](https://www.youtube.com/watch?v=aoENL4gF9rE)
 
-## Ethereum EVM 
-
-- 📦  [useDapp](https://github.com/EthWorks/useDApp)
-- 📦 [wagmi hooks](https://github.com/tmm/wagmi)
-- 🖥 [TheGraph](https://thegraph.com/)
-- 🖥 [ether.js](https://docs.ethers.io/v5/single-page/)
-- 📦 [TypeChain](https://github.com/dethcrypto/TypeChain)
-- 📦 [Web3-React](https://github.com/NoahZinsmeister/web3-react)
-- 📦 [Web3 modal](https://github.com/Web3Modal/web3modal)
 ## Continuous Integration & Delivery
 
 - 🖥 [lighthouse ci](https://github.com/GoogleChrome/lighthouse-ci)
