@@ -2,7 +2,7 @@
 
 # PowerStack Resources
 
-A curated collection of tutorials, talks, guidelines and tools for performant applications.   
+A curated collection of tutorials, talks, guidelines and tools for building performant applications.   
 
 __Blockchain, GraphQL, Functional JS, TypeScript, NextJS, Zustand, Stitches, Framer, Fluid Layout with Grid and Flex.__
 
