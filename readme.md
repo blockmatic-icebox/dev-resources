@@ -4,7 +4,7 @@
 
 A curated collection of tutorials, talks, guidelines and tools for building performant applications.   
 
-__Blockchain, GraphQL, Functional JS, TypeScript, NextJS, Zustand, Stitches, Framer, Grid and Flex.__
+__Blockchain, GraphQL, Functional JS, TypeScript, NextJS, Zustand, Tailwind CSS, Framer, Grid and Flex.__
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -19,7 +19,7 @@ __Blockchain, GraphQL, Functional JS, TypeScript, NextJS, Zustand, Stitches, Fra
 - [NextJS Framework](#nextjs-framework)
 - [Frontend State Management](#frontend-state-management)
 - [Layout & CSS](#layout--css)
-- [Stitches, Design System and CSS-in-JS](#stitches-design-system-and-css-in-js)
+- [Tailwind CSS](#tailwind)
 - [Typography and Iconography](#typography-and-iconography)
 - [React Debugging](#react-debugging)
 - [Web Performance](#web-performance)
@@ -109,18 +109,16 @@ The web has evolved and the modern css apis make it a lot easier to but responsi
 - 📝 [Beyond Media Queries](https://theweb.rocks/beyondmediaqueries/)
 - 🖥 [Learn CSS Grid](https://learncssgrid.com/)
 
-## Stitches, Design System and CSS-in-JS
+## Tailwind
 
-Stitches is the best state-of-art css-in-js framework, in combination with Toolabs DSM it provides the performance and developer experience for design system driven development.
+Tailwind is a utility-first CSS framework,  it's fast, flexible, and reliable — with zero-runtime. 
 
-- 🎬  [What are Design Tokens](https://www.youtube.com/watch?v=wtTstdiBuUk)
-- 🎬  [The Future of the Front-End – Stitches CSS-in-JS Demo](https://www.youtube.com/watch?v=Gw28VgyKGkw)
-- 🎬  [Pedro Duarte - Modulz, Radix, Stitches](https://www.youtube.com/watch?v=3zn3Lyys9Zk)
-- 🎬  [Let's Build a Design System: Spacing Methods](https://www.youtube.com/watch?v=aXokV5In7YA)
-- 🎬  [Design System Naming Conventions - A Practical Guide](https://www.youtube.com/watch?v=w2LFfOtPsoc)
-- 🎬  [Guillermo Rauch on Merging Design and Developement](https://www.youtube.com/watch?v=3hccXiXI0u8)
-- 🖥  [Toolabs Design System Manager](https://toolabs.com/)
-- 🖥  [Stitches - CSS-in-JS with near-zero runtime](https://stitches.dev/)
+- 🎬  [Adam Wathan - How Tailwind CSS came to be](https://www.youtube.com/watch?v=1x7HlvSfW6s)
+- 🎬  [Tailwind in 100 Seconds](https://www.youtube.com/watch?v=mr15Xzb1Ook)
+- 🎬  [What is Tailwind? (and why is it awesome?)](https://www.youtube.com/watch?v=9U8eKmwUbIs)
+- 🎬  [Translating a Custom Design System to Tailwind CSS](https://www.youtube.com/watch?v=cZc4Jn5nK3k)
+- 🖥  [Tailwind - A utility-first CSS framework packed with classes](https://tailwindcss.com/)
+- 🖥  [Tailwind UI](https://tailwindui.com/)
 
 ## Typography and Iconography
 
