@@ -2,41 +2,34 @@
 
 # PowerStack Resources
 
-A curated collection of tutorials, talks, guidelines and tools for building performant applications.   
+__Blockchain, GraphQL, TypeScript, NextJS, Functional JS, Tailwind, Framer.__
 
-__Blockchain, GraphQL, Functional JS, TypeScript, NextJS, Zustand, Stitches, Framer, Grid and Flex.__
+A curated collection of tutorials, talks and tools for building performant applications.   
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Blockchain Fundamentals](#blockchain-fundamentals)
 - [Etherem ( EVM )](#etherem--evm-)
 - [Solana](#solana)
 - [EOSIO](#eosio)
-- [Functional JavaScript and Web Fundamentals](#functional-javascript-and-web-fundamentals)
+- [Functional JS and Web Fundamentals](#functional-js-and-web-fundamentals)
 - [TypeScript](#typescript)
-- [NextJS Framework](#nextjs-framework)
-- [Frontend State Management](#frontend-state-management)
 - [Layout & CSS](#layout--css)
-- [Stitches, Design System and CSS-in-JS](#stitches-design-system-and-css-in-js)
+- [Design Systems](#design-systems)
 - [Typography and Iconography](#typography-and-iconography)
-- [React Debugging](#react-debugging)
-- [Web Performance](#web-performance)
-- [React Animation](#react-animation)
-- [GraphQL](#graphql)
-- [Translations / Internationalization (i18n)](#translations--internationalization-i18n)
 - [React Hooks and Context](#react-hooks-and-context)
-- [React Native & Expo](#react-native--expo)
+- [Debugging](#debugging)
+- [Web Performance](#web-performance)
+- [Animation](#animation)
+- [GraphQL](#graphql)
 - [Continuous Integration & Delivery](#continuous-integration--delivery)
+- [React Native & Expo](#react-native--expo)
 - [React Native Accesibility](#react-native-accesibility)
+- [Contributing](#contributing)
 - [Blockmatic](#blockmatic)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Blockchain Fundamentals 
-
-... encryption, tokens, wallets, defi. 
 
 ## Etherem ( EVM )
 
@@ -49,7 +42,7 @@ __Blockchain, GraphQL, Functional JS, TypeScript, NextJS, Zustand, Stitches, Fra
 
 - 🖥 [EOSIO Core](https://github.com/greymass/eosio-core)
 
-## Functional JavaScript and Web Fundamentals  
+## Functional JS and Web Fundamentals  
 
 These are fundamental concepts and knowledge on how the browser and javascript work. You need learn this in order to be able to develop javascript applications in a professional way.
 
@@ -70,21 +63,6 @@ TypeScript allows you to strongly type your javascript functions to catch errors
 - 📝 [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - 📦 [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - 📦 [TypeFest TypeScript Collection](https://github.com/sindresorhus/type-fest)
-
-## NextJS Framework
-
-Server side rendering rendering framework for building perfomant react application following web standards.
-
-- 🖥 [NextJS](https://nextjs.org/)
-
-## Frontend State Management
-
-While most state in Remix apps is managed on the backend and cookies, you will find that some global state for layout, ui flags and other application configuration will be required too, Zustand is the best tool for the job. 
-
-- 📦 [Zustand Store](https://github.com/pmndrs/zustand) 
-- 📦 [Simple Zustand Devtools](https://github.com/beerose/simple-zustand-devtools)
-- 🎬  [Code Review: Zustand (small & fast state-management for React)](https://www.youtube.com/watch?v=1-GqEwFlG-E)
-
 ## Layout & CSS
 
 The web has evolved and the modern css apis make it a lot easier to but responsive and fluid layouts. There's no longer need for column based grid systems, flexbox and css grid provide with everything you need for layout.
@@ -109,19 +87,13 @@ The web has evolved and the modern css apis make it a lot easier to but responsi
 - 📝 [Beyond Media Queries](https://theweb.rocks/beyondmediaqueries/)
 - 🖥 [Learn CSS Grid](https://learncssgrid.com/)
 
-## Stitches, Design System and CSS-in-JS
-
-Stitches is the best state-of-art css-in-js framework, in combination with Toolabs DSM it provides the performance and developer experience for design system driven development.
+## Design Systems
 
 - 🎬  [What are Design Tokens](https://www.youtube.com/watch?v=wtTstdiBuUk)
-- 🎬  [The Future of the Front-End – Stitches CSS-in-JS Demo](https://www.youtube.com/watch?v=Gw28VgyKGkw)
-- 🎬  [Pedro Duarte - Modulz, Radix, Stitches](https://www.youtube.com/watch?v=3zn3Lyys9Zk)
+- 🎬  [Design Tokens in Figma: How to get started, today. Jan Six](https://www.youtube.com/watch?v=Ka1I5TphDb0) 
 - 🎬  [Let's Build a Design System: Spacing Methods](https://www.youtube.com/watch?v=aXokV5In7YA)
 - 🎬  [Design System Naming Conventions - A Practical Guide](https://www.youtube.com/watch?v=w2LFfOtPsoc)
 - 🎬  [Guillermo Rauch on Merging Design and Developement](https://www.youtube.com/watch?v=3hccXiXI0u8)
-- 🖥  [Toolabs Design System Manager](https://toolabs.com/)
-- 🖥  [Stitches - CSS-in-JS with near-zero runtime](https://stitches.dev/)
-
 ## Typography and Iconography
 
 - 🎬  [Typography Basics Explained](https://www.youtube.com/watch?v=rF0zvSrF438)
@@ -133,50 +105,6 @@ Stitches is the best state-of-art css-in-js framework, in combination with Toola
 - 🔧  [Modular Scale](https://www.modularscale.com)
 - 🎬  [Simple Explanation of rem & em CSS Units](https://www.youtube.com/watch?v=H4UtKu11yXg)
 - 📦 [React SVG Icons](https://github.com/react-icons/react-icons)
-
-## React Debugging
-
-React and react native debugging tools.
-
-- 📦 [Devtools Cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet)
-- 🔧 [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-- 🔧 [Pesticide Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi)
-- 🎬  [What's New with React Dev Tools 4](https://youtu.be/QFKZmBMgvus?t=468)
-- 🖥 [React Devtools Interactive Tutorial](https://react-devtools-tutorial.now.sh/)
-- 🖥 [Flipper](https://fbflipper.com/)
-- 📦 [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
-- 📦 [Reactotron](https://github.com/infinitered/reactotron)
-
-## Web Performance
-
-Optimizing for quality of user experience is key to the long-term success of any site on the web.
-
-- 🖥  [Web Vitals](https://web.dev/learn-web-vitals/)
-- 🎬  [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc)
-- 🎬  [Web Performance Tips and Tricks from the Trenches](https://www.youtube.com/watch?v=YJGCZCaIZkQ)
-
-## React Animation
-
-- 🎬  [Working with Framer Motion](https://www.youtube.com/watch?v=fY1pUeFqTsE)
-- 🖥 [Framer Motion](https://www.framer.com/motion)
-- 📦 [Framer Motion demos](https://github.com/chenglou/react-motion/wiki/Gallery-of-third-party-React-Motion-demos)
-- 🎬  [Moti - Uuniversal animation package for React Native](https://www.youtube.com/watch?v=ynSfSf9w99M)
-- 🎬  [Declarative future of gestures and animations in React Native](https://www.youtube.com/watch?v=kdq4z2708VM)
-- 📝 [Canvas vs. SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/)
-- 📦 [Lottie animation view for react ](https://github.com/chenqingspring/react-lottie)
-- 📦 [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit)
-
-## GraphQL
-
-- 🖥 [TheGraph](https://thegraph.com/)
-- 📦 [React Apollo Hooks](https://www.apollographql.com/docs/react/api/react-apollo/)
-- 📦 [GraphQL Hooks](https://github.com/nearform/graphql-hooks)
-
-## Translations / Internationalization (i18n) 
-
-- 📦 [React i18next](https://react.i18next.com)
-- 📦 [Remix i18next](https://github.com/sergiodxa/remix-i18next)
-
 ## React Hooks and Context
 
 - 🎬  [Requisite React: Learn how to use React Hooks, Suspense & JSX - Kent C. Dodds](https://www.youtube.com/watch?v=tO8qHlr6Wqg)
@@ -213,6 +141,51 @@ Optimizing for quality of user experience is key to the long-term success of any
 - 🎬  [Explore the useMemo, useCallback, and useRef Hooks in React](https://www.youtube.com/watch?v=IivieWL_g4s)
 - 📝 [State Management with React Hooks — No Redux or Context API](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
 
+## Debugging
+
+React and react native debugging tools.
+
+- 📦 [Devtools Cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet)
+- 🔧 [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- 🔧 [Pesticide Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi)
+- 🎬  [What's New with React Dev Tools 4](https://youtu.be/QFKZmBMgvus?t=468)
+- 🖥 [React Devtools Interactive Tutorial](https://react-devtools-tutorial.now.sh/)
+- 🖥 [Flipper](https://fbflipper.com/)
+- 📦 [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+- 📦 [Reactotron](https://github.com/infinitered/reactotron)
+
+## Web Performance
+
+Optimizing for quality of user experience is key to the long-term success of any site on the web.
+
+- 🖥  [Web Vitals](https://web.dev/learn-web-vitals/)
+- 🎬  [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc)
+- 🎬  [Web Performance Tips and Tricks from the Trenches](https://www.youtube.com/watch?v=YJGCZCaIZkQ)
+
+## Animation
+
+- 🎬  [Working with Framer Motion](https://www.youtube.com/watch?v=fY1pUeFqTsE)
+- 🖥 [Framer Motion](https://www.framer.com/motion)
+- 📦 [Framer Motion demos](https://github.com/chenglou/react-motion/wiki/Gallery-of-third-party-React-Motion-demos)
+- 🎬  [Moti - Uuniversal animation package for React Native](https://www.youtube.com/watch?v=ynSfSf9w99M)
+- 🎬  [Declarative future of gestures and animations in React Native](https://www.youtube.com/watch?v=kdq4z2708VM)
+- 📝 [Canvas vs. SVG: Choosing the Right Tool for the Job](https://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/)
+- 📦 [Lottie animation view for React](https://github.com/chenqingspring/react-lottie)
+- 📦 [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit)
+
+## GraphQL
+
+- 🖥 [Hasura in 100seconds](https://www.youtube.com/watch?v=xiZ61BkMKo8)
+- 🖥 [GenQL](https://genql.vercel.app/)
+
+## Continuous Integration & Delivery
+
+- 🖥 [lighthouse ci](https://github.com/GoogleChrome/lighthouse-ci)
+- 🖥 [nevercode](https://nevercode.io/)
+- 🖥 [fastlane](https://fastlane.tools/)
+- 🖥 [appcenter](https://appcenter.ms/)
+- 🖥 [firebase](https://firebase.google.com/products/app-distribution/)
+
 ## React Native & Expo
 
 - 🎬  [Getting Started With Expo and React Native](https://www.youtube.com/watch?v=xAjkuVuLLvo)
@@ -225,15 +198,6 @@ Optimizing for quality of user experience is key to the long-term success of any
 - 🖥 [Awesome React Native](https://www.awesome-react-native.com)
 - 📦 [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
 - 🎬  [Why React Native Gesture Handler & Reanimated](https://www.youtube.com/watch?v=aoENL4gF9rE)
-
-## Continuous Integration & Delivery
-
-- 🖥 [lighthouse ci](https://github.com/GoogleChrome/lighthouse-ci)
-- 🖥 [nevercode](https://nevercode.io/)
-- 🖥 [fastlane](https://fastlane.tools/)
-- 🖥 [appcenter](https://appcenter.ms/)
-- 🖥 [firebase](https://firebase.google.com/products/app-distribution/)
-
 ## React Native Accesibility
 
 - 🎬  [Accessibility with React Native Apps in a Blind World](https://www.youtube.com/watch?v=TFKPJKAbvbk)
