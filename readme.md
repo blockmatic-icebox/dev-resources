@@ -2,7 +2,7 @@
 
 # PowerStack Resources
 
-__Blockchain, GraphQL, TypeScript, NextJS, Functional JS, Tailwind, Framer.__
+__Blockchain, Functional JS, GraphQL, TypeScript, NextJS, Tailwind, Framer.__
 
 A curated collection of tutorials, talks and tools for building performant applications.   
 
@@ -10,9 +10,6 @@ A curated collection of tutorials, talks and tools for building performant appli
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Etherem ( EVM )](#etherem--evm-)
-- [Solana](#solana)
-- [EOSIO](#eosio)
 - [Functional JS and Web Fundamentals](#functional-js-and-web-fundamentals)
 - [TypeScript](#typescript)
 - [Layout & CSS](#layout--css)
@@ -24,23 +21,13 @@ A curated collection of tutorials, talks and tools for building performant appli
 - [Web Performance](#web-performance)
 - [Animation](#animation)
 - [GraphQL](#graphql)
+- [Blockchain](#blockchain)
 - [Continuous Integration & Delivery](#continuous-integration--delivery)
 - [React Native & Expo](#react-native--expo)
 - [Contributing](#contributing)
 - [Blockmatic](#blockmatic)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Etherem ( EVM )
-
-- 🖥 [Ether.js](https://docs.ethers.io/v5/single-page/)
-## Solana
-
-- 🖥 [SolDev](https://soldev.app/)
-
-## EOSIO
-
-- 🖥 [EOSIO Core](https://github.com/greymass/eosio-core)
 
 ## Functional JS and Web Fundamentals  
 
@@ -99,6 +86,7 @@ The web has evolved and the modern css apis make it a lot easier to but responsi
 
 Tailwind is a utility-first CSS framework,  it's fast, flexible, and reliable — with zero-runtime. 
 
+- 🔊 [Tailwind CSS with Adam Wathan](https://open.spotify.com/episode/2NCNJ3AqEjALX2xza3JKkE?si=ZbnuQrwOT-C4agFxC6yTjg&nd=1)
 - 🎬  [Adam Wathan - How Tailwind CSS came to be](https://www.youtube.com/watch?v=1x7HlvSfW6s)
 - 🎬  [Tailwind in 100 Seconds](https://www.youtube.com/watch?v=mr15Xzb1Ook)
 - 🎬  [What is Tailwind? (and why is it awesome?)](https://www.youtube.com/watch?v=9U8eKmwUbIs)
@@ -188,6 +176,14 @@ Optimizing for quality of user experience is key to the long-term success of any
 
 - 🖥 [Hasura in 100seconds](https://www.youtube.com/watch?v=xiZ61BkMKo8)
 - 🖥 [GenQL](https://genql.vercel.app/)
+
+
+## Blockchain
+
+- 🖥 [Ether.js](https://docs.ethers.io/v5/single-page/)
+- 🖥 [SolDev](https://soldev.app/)
+- 🖥 [EOSIO Core](https://github.com/greymass/eosio-core)
+
 
 ## Continuous Integration & Delivery
 
