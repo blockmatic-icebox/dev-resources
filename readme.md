@@ -86,11 +86,12 @@ The web has evolved and the modern css apis make it a lot easier to but responsi
 
 Tailwind is a utility-first CSS framework,  it's fast, flexible, and reliable — with zero-runtime. 
 
-- 🔊 [Tailwind CSS with Adam Wathan](https://open.spotify.com/episode/2NCNJ3AqEjALX2xza3JKkE?si=ZbnuQrwOT-C4agFxC6yTjg&nd=1)
+- 🔊  [Tailwind CSS with Adam Wathan](https://open.spotify.com/episode/2NCNJ3AqEjALX2xza3JKkE?si=ZbnuQrwOT-C4agFxC6yTjg&nd=1)
 - 🎬  [Adam Wathan - How Tailwind CSS came to be](https://www.youtube.com/watch?v=1x7HlvSfW6s)
 - 🎬  [Tailwind in 100 Seconds](https://www.youtube.com/watch?v=mr15Xzb1Ook)
 - 🎬  [What is Tailwind? (and why is it awesome?)](https://www.youtube.com/watch?v=9U8eKmwUbIs)
 - 🎬  [Translating a Custom Design System to Tailwind CSS](https://www.youtube.com/watch?v=cZc4Jn5nK3k)
+- 🎬  [The Utility First Workflow](https://v1.tailwindcss.com/course/the-utility-first-workflow)
 - 🖥  [Tailwind - A utility-first CSS framework packed with classes](https://tailwindcss.com/)
 - 🖥  [Tailwind UI](https://tailwindui.com/)
 ## Typography and Iconography
