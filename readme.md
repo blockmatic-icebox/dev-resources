@@ -79,8 +79,6 @@ The web has evolved and the modern css apis make it a lot easier to but responsi
 - 🎬  [What are Design Tokens](https://www.youtube.com/watch?v=wtTstdiBuUk)
 - 🎬  [Design Tokens in Figma: How to get started, today. Jan Six](https://www.youtube.com/watch?v=Ka1I5TphDb0) 
 - 🎬  [Let's Build a Design System: Spacing Methods](https://www.youtube.com/watch?v=aXokV5In7YA)
-- 🎬  [Design System Naming Conventions - A Practical Guide](https://www.youtube.com/watch?v=w2LFfOtPsoc)
-- 🎬  [Guillermo Rauch on Merging Design and Developement](https://www.youtube.com/watch?v=3hccXiXI0u8)
 
 ## Tailwind
 
