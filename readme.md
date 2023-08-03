@@ -177,8 +177,9 @@ Optimizing for quality of user experience is key to the long-term success of any
 - 🖥 [GenQL](https://genql.vercel.app/)
 
 
-## Blockchain
+## Blockchain & Digital Assets
 
+- 🖥 [Digital Assets 101](https://youtube.com/playlist?list=PLhYUtJdOVvVqUVezc1Hsy2ZHm2CvZaihH)
 - 🖥 [Ether.js](https://docs.ethers.io/v5/single-page/)
 - 🖥 [SolDev](https://soldev.app/)
 - 🖥 [EOSIO Core](https://github.com/greymass/eosio-core)
