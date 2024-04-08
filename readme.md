@@ -1,6 +1,6 @@
 
 
-# PowerStack Resources
+# Dev Resources
 
 __Blockchain, Functional JS, GraphQL, TypeScript, NextJS, Tailwind, Framer.__
 
@@ -205,15 +205,9 @@ Optimizing for quality of user experience is key to the long-term success of any
 - 🖥 [Awesome React Native](https://www.awesome-react-native.com)
 - 📦 [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image)
 - 🎬  [Why React Native Gesture Handler & Reanimated](https://www.youtube.com/watch?v=aoENL4gF9rE)
-## Contributing
 
-We use a [Discussions Board](https://github.com/blockmatic/powerstack-docs/discussions/1) to gather thoughts, bug reports and feature requests from the community.
-
-Follow the standard Github Flow for PRs. [Contributing Guidelines](https://docs.powerstack.xyz/powerstack/other-resources/contributing-guidelines).
 
 ## Blockmatic
-
-Blockmatic is building a robust ecosystem of people and tools for the development of blockchain applications.
 
 [blockmatic.io](https://blockmatic.io)
 
